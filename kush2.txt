@@ -1,0 +1,2858 @@
+[links]
+http://www.nytimes.com/content/help/site/ie9-support.html
+#top-news
+#site-index-navigation
+http://cn.nytimes.com
+http://www.nytimes.com/es/
+http://www.nytimes.com/
+http://www.nytimes.com/pages/todayspaper/index.html
+http://www.nytimes.com/video
+http://www.nytimes.com/pages/world/index.html
+http://www.nytimes.com/pages/national/index.html
+http://www.nytimes.com/pages/politics/index.html
+http://www.nytimes.com/pages/nyregion/index.html
+http://www.nytimes.com/pages/business/index.html
+http://www.nytimes.com/pages/business/international/index.html
+http://www.nytimes.com/pages/opinion/index.html
+http://www.nytimes.com/pages/opinion/international/index.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/section/science
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/pages/sports/index.html
+http://www.nytimes.com/pages/sports/international/index.html
+http://www.nytimes.com/pages/arts/index.html
+http://www.nytimes.com/pages/arts/international/index.html
+http://www.nytimes.com/pages/fashion/index.html
+http://www.nytimes.com/pages/style/international/index.html
+http://www.nytimes.com/pages/dining/index.html
+http://www.nytimes.com/pages/dining/international/index.html
+http://www.nytimes.com/section/travel
+http://www.nytimes.com/pages/magazine/index.html
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/pages/politics/index.html?src=hpHeader
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html
+https://www.nytimes.com/2017/01/22/us/politics/president-trump-inauguration-crowd-white-house.html
+https://www.nytimes.com/2017/01/22/business/media/sean-spicer-donald-trump-alternative-facts.html
+https://www.nytimes.com/2017/01/22/us/politics/trump-foreign-payments-constitution-lawsuit.html
+https://www.nytimes.com/2017/01/22/business/president-donald-trump-health-insurance-high-risk-pool.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
+https://www.nytimes.com/2017/01/21/upshot/what-does-the-order-against-the-health-law-actually-do.html
+https://www.nytimes.com/2017/01/22/us/politics/senate-republicans-cabinet-confirmations-president-trump.html
+https://www.nytimes.com/2017/01/22/arts/aziz-ansari-donald-trump-snl.html
+https://www.nytimes.com/2017/01/22/arts/aziz-ansari-monologue-transcript-snl.html
+https://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-benjamin-netanyahu-us-israel-relations.html
+https://www.nytimes.com/2017/01/22/us/united-airlines-delay-computer.html
+https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.html
+https://www.nytimes.com/2017/01/22/world/europe/75-arrested-in-european-crackdown-on-art-trafficking.html
+https://www.nytimes.com/2017/01/22/sports/baseball/yordano-ventura-andy-marte-car-crashes.html
+https://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow-yahya-jammeh.html
+https://www.nytimes.com/tips
+https://www.nytimes.com/tips
+http://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi.html
+https://www.nytimes.com/2017/01/22/briefing/asia-australia-briefing.html
+https://www.nytimes.com/2017/01/22/briefing/asia-australia-briefing.html
+http://www.nytimes.com/DesktopHome
+http://www.nytimes.com/spotlight/times-tips?contentCollection=smarter-living
+https://www.nytimes.com/2017/01/09/science/genetically-edited-foods-crispr.html
+https://www.nytimes.com/2017/01/09/science/genetically-edited-foods-crispr.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html?hp&target=comments#commentsContainer
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+http://www.nytimes.com/interactive/2017/01/22/us/politics/womens-march-trump-crowd-estimates.html
+https://www.nytimes.com/2017/01/21/us/niles-michigan-trump-no-women-march.html
+http://www.nytimes.com/interactive/2017/01/21/world/womens-march-pictures.html
+https://www.nytimes.com/2017/01/21/nyregion/womens-march-donald-trump-manhattan.html
+http://www.nytimes.com/interactive/2017/01/20/us/politics/womens-march-on-washington-voices.html
+https://www.nytimes.com/video/us/politics/100000004881605/family-conversations-on-trump.html
+http://www.nytimes.com/video/the-daily-360
+https://www.nytimes.com/video/us/politics/100000004867489/witness-the-womens-march-in-washington.html
+/video/the-daily-360
+https://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html
+https://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html
+https://www.nytimes.com/section/sports/football
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+https://www.nytimes.com/2017/01/20/business/brenda-barnes-dead.html
+https://www.nytimes.com/2017/01/20/business/brenda-barnes-dead.html
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+http://www.nytimes.com/newsletters/california-today
+http://www.nytimes.com/newsletters/california-today
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/18/arts/design/michael-govan-lacma-director.html
+https://www.nytimes.com/2017/01/18/arts/design/michael-govan-lacma-director.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/21/sunday-review/barnum-bailey-make-room-for-a-new-ringmaster.html
+https://www.nytimes.com/2017/01/21/sunday-review/barnum-bailey-make-room-for-a-new-ringmaster.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-tempting-of-the-media.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/why-2017-may-be-the-best-year-ever.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html?hp&target=comments#commentsContainer
+https://twitter.com/nytopinion
+http://www.nytimes.com/2017/01/20/insider/on-guard-reporters-gear-up-to-cover-president-trump.html
+http://www.nytimes.com/interactive/2017/01/20/insider/insider-newsletter-poll-4.html
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/2017/01/20/insider/on-guard-reporters-gear-up-to-cover-president-trump.html
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://wordplay.blogs.nytimes.com
+/saved
+/saved
+http://www.nytimes.com/content/help/site/save-reading-list.html
+http://nyt.qualtrics.com/SE/?SID=SV_71WmGUzc5CUhhs1
+http://www.nytimes.com/column/neediest-cases
+https://www.nytimes.com/2017/01/22/nyregion/neediest-cases-fund-college-degree.html
+https://www.nytimes.com/2017/01/22/nyregion/neediest-cases-fund-college-degree.html
+https://www.gofundme.com/the-new-york-times-neediest-cases/donate
+http://www.nytimes.com/video
+http://www.nytimes.com/video?src=vidm
+http://www.nytimes.com/pages/sports/basketball/index.html
+https://www.nytimes.com/2017/01/21/sports/basketball/golden-state-warriors-james-michael-mcadoo-nba.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/19/opinion/sunday/the-conversation-placebo.html
+http://www.nytimes.com/section/fashion
+https://www.nytimes.com/2017/01/21/fashion/tina-knowles-lawson-beyonce-solange-matriarch.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/21/movies/star-trek-axanar-fan-film-paramount-cbs-settlement.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/20/opinion/sunday/how-not-to-be-afraid.html
+http://www.nytimes.com/pages/index.html
+https://www.nytimes.com/2017/01/20/movies/paula-dell-dead-hollywood-stuntwoman.html
+http://www.nytimes.com/section/books/review
+https://www.nytimes.com/2017/01/20/books/review/rumi-brad-gooch.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/20/opinion/sunday/at-the-inauguration-with-millennials-for-trump.html
+http://www.nytimes.com/section/arts/design
+https://www.nytimes.com/2017/01/20/arts/ars-longa-except-when-moma-throws-it-out.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/20/movies/having-a-sundance-hit-may-not-make-you-rich-anymore.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/21/opinion/sunday/does-breast-milk-have-a-sex-bias.html
+http://www.nytimes.com/section/arts/television
+https://www.nytimes.com/2017/01/20/arts/television/review-theyve-sob-remade-beaches.html
+http://www.nytimes.com/pages/world/index.html
+https://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/world/americas/cubans-us-border-policy-wet-foot-dry-foot-obama-trump.html
+http://www.nytimes.com/pages/business/index.html
+https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.html
+https://www.nytimes.com/2017/01/22/business/media/sean-spicer-donald-trump-alternative-facts.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/finding-myself-marching.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+http://www.nytimes.com/section/us
+https://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi-death.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+http://www.nytimes.com/pages/technology/index.html
+https://www.nytimes.com/2017/01/19/business/tesla-model-s-autopilot-fatal-crash.html
+https://www.nytimes.com/2017/01/19/sports/big-ten-is-entering-a-new-realm-e-sports.html
+https://www.nytimes.com/2017/01/18/technology/clearing-out-the-app-stores-government-censorship-made-easier.html
+http://www.nytimes.com/pages/arts/index.html
+https://www.nytimes.com/2017/01/22/arts/television/now-that-trump-is-president-how-will-tv-respond.html
+https://www.nytimes.com/2017/01/22/arts/design/trump-obama-portrait-museum.html
+https://www.nytimes.com/2017/01/22/arts/music/jukedeck-artificial-intelligence-songwriting.html
+http://www.nytimes.com/pages/politics/index.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-benjamin-netanyahu-us-israel-relations.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-tax-returns.html
+http://www.nytimes.com/section/fashion
+https://www.nytimes.com/2017/01/21/fashion/melania-trump-inaugural-ballgown.html
+https://www.nytimes.com/2017/01/21/fashion/tina-knowles-lawson-beyonce-solange-matriarch.html
+https://www.nytimes.com/2017/01/21/fashion/transgender-teen-literature.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/22/movies/art-house-fare-hopes-for-an-oscar-nod-push-as-split-rules-north-america.html
+https://www.nytimes.com/2017/01/20/movies/having-a-sundance-hit-may-not-make-you-rich-anymore.html
+https://www.nytimes.com/2017/01/19/movies/split-review-m-night-shyamalan.html
+http://www.nytimes.com/section/nyregion
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/22/nyregion/a-club-where-lions-dance-and-traditions-take-root.html
+http://www.nytimes.com/pages/sports/index.html
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/sports/baseball/yordano-ventura-andy-marte-car-crashes.html
+http://www.nytimes.com/pages/theater/index.html
+https://www.nytimes.com/2017/01/22/arts/broadwaycon-faces-dispute-with-actors-equity-association.html
+https://www.nytimes.com/2017/01/20/arts/donald-trump-broadway-nyc.html
+https://www.nytimes.com/2017/01/19/theater/jitney-review-august-wilson.html
+http://www.nytimes.com/section/science
+https://www.nytimes.com/2017/01/19/science/fishing-for-clues-to-solve-namibias-fairy-circle-mystery.html
+https://www.nytimes.com/2017/01/20/science/john-anthony-capra-neanderthals-dna-humans.html
+https://www.nytimes.com/2017/01/20/science/tasmanian-tigers-brains.html
+http://www.nytimes.com/section/obituaries
+https://www.nytimes.com/2017/01/22/books/peter-abrahams-a-south-african-who-wrote-of-apartheid-and-identity-dies-at-97.html
+https://www.nytimes.com/2017/01/21/arts/music/maggie-roche-dead-singer-songwriter.html
+https://www.nytimes.com/2017/01/22/world/americas/ronald-webster-anguilla-revolution-dies.html
+http://www.nytimes.com/section/arts/television
+https://www.nytimes.com/2017/01/22/arts/television/now-that-trump-is-president-how-will-tv-respond.html
+https://www.nytimes.com/2017/01/22/arts/television/netflix-one-day-at-a-time-rita-moreno-interview.html
+https://www.nytimes.com/2017/01/20/arts/television/trump-inauguration-mr-reality-tv-goes-to-washington.html
+http://www.nytimes.com/pages/health/index.html
+https://www.nytimes.com/2017/01/18/health/partnership-epidemic-preparedness.html
+https://www.nytimes.com/2017/01/18/us/politics/nominee-for-health-secretary-is-vague-on-replacing-affordable-care-act.html
+https://www.nytimes.com/2017/01/18/well/move/running-may-be-good-for-your-knees.html
+http://www.nytimes.com/section/travel
+https://www.nytimes.com/2017/01/17/travel/guadeloupe-caribbean-food-french.html
+https://www.nytimes.com/2017/01/18/travel/hiking-aokigahara-forest-japan-mount-fuji-lava.html
+http://www.nytimes.com/interactive/2017/01/19/travel/what-to-do-36-hours-in-galveston-texas.html
+http://www.nytimes.com/section/books
+https://www.nytimes.com/2017/01/22/books/the-evenings-a-dutch-classic-arrives-in-english-it-only-took-70-years.html
+https://www.nytimes.com/2017/01/17/books/review/jon-meacham-on-literature-of-our-discontent.html
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+http://www.nytimes.com/section/education
+https://www.nytimes.com/2017/01/19/business/dealbook/navient-loans-lawsuit.html
+https://www.nytimes.com/2017/01/18/us/politics/betsy-devos-education-secretary-confirmation-donald-trump.html
+https://www.nytimes.com/2017/01/18/us/lois-dickson-rice-dead-pell-grants.html
+http://www.nytimes.com/pages/dining/index.html
+https://www.nytimes.com/2017/01/20/dining/buckwheat-popover-video-recipe.html
+https://www.nytimes.com/2017/01/20/dining/chicken-rice-recipe.html
+https://www.nytimes.com/2017/01/19/dining/review-red-wine-corsica-terroir.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-tempting-of-the-media.html
+http://www.nytimes.com/pages/realestate/index.html
+https://www.nytimes.com/2017/01/20/realestate/the-history-hidden-in-the-walls.html
+https://www.nytimes.com/2017/01/20/realestate/landlords-seeking-eviction-call-bradley-silverbush.html
+https://www.nytimes.com/2017/01/20/realestate/the-beginning-of-a-buyers-market-in-manhattan.html
+http://www.nytimes.com/section/upshot
+https://www.nytimes.com/2017/01/21/upshot/what-does-the-order-against-the-health-law-actually-do.html
+https://www.nytimes.com/2017/01/17/upshot/republican-men-say-its-a-better-time-to-be-a-woman-than-a-man.html
+https://www.nytimes.com/2017/01/20/upshot/federal-policy-will-shift-not-all-states-will-shift-with-it.html
+http://www.nytimes.com/section/magazine
+https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html
+https://www.nytimes.com/2017/01/18/magazine/who-decides-who-counts-as-native-american.html
+http://www.nytimes.com/interactive/2017/01/19/magazine/parades-across-america-george-georgiou.html
+http://www.nytimes.com/pages/automobiles/index.html
+https://www.nytimes.com/2017/01/19/business/tesla-model-s-autopilot-fatal-crash.html
+https://www.nytimes.com/2017/01/19/automobiles/autoreviews/the-bmw-x4-m40i-is-fast-if-not-practical.html
+https://www.nytimes.com/2017/01/19/automobiles/wheels/a-whiff-of-a-new-car-smell-just-a-page-flip-away.html
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/slideshow/2017/01/20/t-magazine/fashion/rick-owens-louis-vuitton-dries-van-noten-mens-paris-fashion-week.html
+https://www.nytimes.com/2017/01/20/t-magazine/diptyque-facial-oil-arlo-skye-suitcase-khiry.html
+http://www.nytimes.com/slideshow/2017/01/20/t-magazine/art/naturalia-paul-kasmin-old-masters.html
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/interactive/2017/01/10/insider/events/will-shortz-meet-the-puzzle-master.html
+https://www.nytimes.com/2017/01/20/insider/putting-the-timess-first-email-address-to-bed.html
+https://www.nytimes.com/2017/01/20/insider/what-were-reading.html
+http://www.nytimes.com/pages/realestate/index.html
+https://www.nytimes.com/2017/01/20/realestate/georgette-mosbacher-puts-fifth-avenue-co-op-on-the-market.html
+https://www.nytimes.com/2017/01/20/realestate/georgette-mosbacher-puts-fifth-avenue-co-op-on-the-market.html
+http://www.nytimes.com/real-estate/find-a-home
+http://realestateads.nytimes.com/
+http://www.nytimes.com/gst/mostemailed.html
+http://www.nytimes.com/gst/mostpopular.html
+http://www.nytimes.com/trending/
+http://www.nytimes.com/recommendations
+http://www.nytimes.com/
+http://www.nytimes.com/
+http://www.nytimes.com/pages/world/index.html
+http://www.nytimes.com/pages/national/index.html
+http://www.nytimes.com/pages/politics/index.html
+http://www.nytimes.com/pages/nyregion/index.html
+http://www.nytimes.com/pages/business/index.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/section/science
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/pages/sports/index.html
+http://www.nytimes.com/pages/education/index.html
+http://www.nytimes.com/pages/obituaries/index.html
+http://www.nytimes.com/pages/todayspaper/index.html
+http://www.nytimes.com/pages/corrections/index.html
+http://www.nytimes.com/pages/opinion/index.html
+http://www.nytimes.com/pages/opinion/index.html#columnists
+http://www.nytimes.com/pages/opinion/index.html#editorials
+http://www.nytimes.com/pages/opinion/index.html#contributing
+http://www.nytimes.com/pages/opinion/index.html#op-ed
+http://www.nytimes.com/pages/opinion/index.html#opinionator
+http://www.nytimes.com/pages/opinion/index.html#letters
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+http://www.nytimes.com/pages/opinion/index.html#takingNote
+http://www.nytimes.com/roomfordebate
+http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+http://www.nytimes.com/video/opinion
+http://www.nytimes.com/pages/arts/index.html
+http://www.nytimes.com/pages/arts/design/index.html
+http://www.nytimes.com/pages/books/index.html
+http://www.nytimes.com/pages/arts/dance/index.html
+http://www.nytimes.com/pages/movies/index.html
+http://www.nytimes.com/pages/arts/music/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/pages/arts/television/index.html
+http://www.nytimes.com/pages/theater/index.html
+http://www.nytimes.com/video/arts
+http://www.nytimes.com/pages/automobiles/index.html
+http://www.nytimes.com/crosswords/
+http://www.nytimes.com/pages/dining/index.html
+http://www.nytimes.com/pages/education/index.html
+http://www.nytimes.com/pages/fashion/index.html
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/section/jobs
+http://www.nytimes.com/pages/magazine/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/section/travel
+http://www.nytimes.com/pages/fashion/weddings/index.html
+http://www.nytimes.com/ref/classifieds/
+http://www.nytimes.com/marketing/tools-and-services/
+http://www.nytimes.com/pages/topics/
+http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/interactive/blogs/directory.html
+http://www.nytimes.com/pages/multimedia/index.html
+http://lens.blogs.nytimes.com/
+http://www.nytimes.com/video
+https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage
+http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP
+http://www.nytimes.com/seeallnav
+http://www.nytimes.com/membercenter
+http://www.nytimes.com/hdleftnav
+http://www.nytimes.com/digitalleftnav
+http://www.nytimes.com/tpnav
+http://www.nytimes.com/crosswords/index.html
+http://www.nytimes.com/marketing/newsletters
+https://myaccount.nytimes.com/mem/tnt.html
+http://www.nytimes.com/giftleftnav
+http://www.nytimes.com/corporateleftnav
+http://www.nytimes.com/educationleftnav
+http://www.nytimes.com/services/mobile/index.html
+http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY
+http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html
+http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html
+http://www.nytco.com/careers
+http://nytmediakit.com/
+http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp
+http://www.nytimes.com/privacy
+http://www.nytimes.com/ref/membercenter/help/agree.html
+http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html
+http://spiderbites.nytimes.com
+http://www.nytimes.com/membercenter/sitehelp.html
+https://myaccount.nytimes.com/membercenter/feedback.html
+http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW
+http://mobile.nytimes.com/
+[tags]
+<html><html><html><html><head><title></title><meta/><link/><link/><link/><link/><meta/><meta/><meta/><link/><link/><link/><link/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><script></script><script></script><script></script></script><script></script><script><esi/></script></script><script></script><script></script><script></script><script></script></head><body><style></style><div><div><div><div><span><i></span><a></a></span></div></div></div></div><div><header><div></div><div></div><div><div><div><button><i></span></button><button><i></span></button><a></a><a></a></div><div><div></div><div><button></button><button></button><button></span></button><button><i></span></button></div></div></div></div><div><div><ul><li></li><li></a></li><li></a></li></ul></div><div></div><div></div><h2><svg><image></image></svg></a></h2><ul><li></li></ul></div><nav><h2></h2><ul><li><button><i></i><span></span></button></li><li><button><i></i><span></span></button></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><button></button></li></ul></nav><div><button></span></button><nav><h2></h2><form><div><div><label></label></div><div><input/><button></span></button><div><ol></ol></div><button></button></div></div></form></nav></div><div></div></header><div></div><nav><h2></h2></nav><nav><h2></h2></nav><div></div><div><main><div></div><div></div><div></div><div><div><script></script><style></style><script></script><style></style></div></div><div><div><section><h2></h2><div><div><div><div><div><h6><a></a></h6></div></div><div><article><h2></a></h2><p></time></p><p><ul><li></li><li></li></ul></p></article></div><div><article><h2></a></h2><p></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></time></h2></article></li></ul></div><div><article><h2></a></h2><p></time></p><p></p></article></div><div><article><h2></a></h2><p></p><p></p></article></div><div><h3></h3><ul><li><article><h2></time></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article></a></h2></article></li></ul></div><div><article><h2></a></h2><p></time></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></time></h2></article></li></ul></div><hr><h3></h3><ul><li><article><h2></time></h2></article></li><li><article><h2></time></h2></article></li><li><article><h2></time></h2></article></li><li><article><h2></time></h2></article></li><li><article><h2></a></h2></article></li></ul></div><hr><style></style><div><div><div><h1><a></a></h1><h2><a></span></a></h2></div></div></div><script></script></div></div></div><div><div><div><script></script><script></script><style></style><div><h2></a></h2><p></p><p></p></article></div></div><hr/><div><div><article><figure><div><a/></a></div></figure><h2></a></h2><p></time></p><p></p></article></div><div><style></style><div><div><a><span></span></span><span></span></a></div></div><script><span><span><span></span><span></span></script></div><div><div><h6><a></a></h6></div><div><article><h2></a></h2><div><a/></a></div><p></p><p></p></article><article><h3></h3><h2></a></h2><div><a/></a></div><p></p><p></p><p><a></span></a></p></article></div></div><hr><div><h6></h6></div></div></div></div></div></section></div></div></main></div></div></body></html><article><h2></a></h2><div><a/></a></div><p></time></p><p></p></article><div><ul><li><div></div></li><li><article><h2></span></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></span></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li></ul></div><div><style></style><div><div><a><div><div><div><div><svg><circle></circle></svg><svg><polyline></polyline></svg></div><div><span></span></div></div><h2></h2><div><svg><g><g><g><circle></circle><path></path><g><ellipse></ellipse><ellipse></ellipse></g><path></path></g></g></g></svg></div></div></div></a><figcaption><p></p></figcaption></figure></div><div></div></div><div><h6><a></a></h6></div><figure><a><div><div><div><div><svg><circle></circle></svg><svg><polyline></polyline></svg></div><div><span></span></div></div><h2></h2><div><svg><g><g><g><circle></circle><path></path><g><ellipse></ellipse><ellipse></ellipse></g><path></path></g></g></g></svg></div></div></div></a><figcaption><p></p></figcaption><a><div><p></p><p></p></div></a></figure></div></div></div></div><hr><article><figure><div><a/></a></div></figure><h2></a></h2><p></p><p></p></article></div><hr><div><h6><a></a></h6></div><style></style><div><div><h2></a></h2><p></time></p><div><a/></a></div><p></p></article></div></div><div><h2></a></h2><p></time></p><div><a/></a></div><p></p></article></div></div></div></div><hr><article><h2></a></h2><div><a/></a></div><p></time></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></time></h2></article></li></ul></div><hr><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><div><style></style><div><div><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div></div></div><hr><article><figure><div><a/></a></div></figure><h2></a></h2><p></p></article><div><div></div></div><script></script></div><div><hr/><div><h2></h2><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div></div></div><div><div></div><div></div><section><div><div><section><h2></a></h2></section></div></div><div><div><div><div><article><h3></h3><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><div><ul><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li></ul></div></div></div><div><div><div><article><figure><div><a/></a></div></figure><h3></h3><h2></a></h2><p></p><p><a></span></a></p></article></div><div><ul><li><article><h2></a></h2></article></li></ul></div></div></div></div><div><div><style></style><style></style></div></div></section><section><h2></h2><div><div><ul><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul><div><a><svg><image></image></svg></a></div></div></div><div><div><div><div><div><article><h3><a></a></h3><h2><a></a></h2></article></div></div><div><div><article><h3><a></a></h3><h2><a></a></h2><div><a><img/></a></div></article></div></div></div></div></div><div><div><div><div><div><article><h3><a></a></h3><h2><a></a></h2><div><a><img/></a></div></article></div></div><div><div><article><h3><a></a></h3></article></div></div></div></div></div></section><div></div><div><div><style></style><div><div><h2></h2><div></a></div></div><div><ol></ol><div><p></p><p><strong></strong></p></div><ol></ol></div><div><a></a><p><span></span><span><a></a></span></p></div></div><script><li></li><article></div></div></article><figure></figure><li></li><article></div></div></article><figure></figure></script><div><div><div><header><h4></h4><span></span></header><div></div><script></script><script></script></div></div></div><style></style></div><div><style></style><div><h6><a></a></h6></div></div><div><article><figure><div><a/></a></div></figure><h2></a></h2><p></p></article></div><div><hr/><p><a></a></p></div></div></div></div><div></div><div></div></div><section><h2></h2><ul><li></li><li></li><li></li><li></li><li></li></ul></section><div></div><div><div><div><div></span></div></div><section><header><h2><span></span></a></h2><a></a></header><div><article><figure><span></span><img/><div></div><div></div><div></div><figcaption></figcaption></figure></article></div><div><div><ul></ul></div></div></section></div></div><section><div><h2></h2><div><div><button><div><span></span><div></div></div></button><button><div><span></span><div></div></div></button></div><div><ol><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><h2></h2><p></p></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><h2></h2><p></p></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li></ol></div></div></div></section><div></div><div><div><hr/><section><div><h2></h2><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div></div></section></div><div><section><div><div><div><div><h2><a></a></h2><article><h3></h3><h2></a></h2><p></p><div><a/></a></div><p></p></article></div><div><ul><li><article></a></h2></article></li><li><article></a></h2></article></li></ul></div></div></div><div><div><div><div><div></div><div></div></div></div><div></div></div></div></div></section><section><div><ul><li></a></li></ul></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></span></div></div></section><div></div><div></div></div></div><div></div><div></div><div></div><div></div><section><header><p></a></p><h2><span></span><a><span></span></a></h2><script></script></header><nav><h2></h2><div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li></li><li><i></i><a></a></li><li><i></i><a></a></li><li><i></i><a></a></li><li><i></i><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li></ul></div></div></nav></section><footer><nav><h2></h2><ul><li><a><span/></span></a></li><li></a></li><li></a></li><li></a></li><li></a></li><li><a></a></li><li><a></a></li><li></a></li></ul></nav><nav><h2></h2><ul><li><a></a></li><li><a></a></li><li><a></a></li><li></a></li></ul></nav><div><a></a></div><div></div></footer><script></script><esi/><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+[sequence]
+The New York Times
+Breaking News
+World News
+Internet Explorer
+LEARN MORE
+Subscribe Now
+Log In
+Quick Site Sections Navigation
+T Magazine
+Real Estate
+Site Search Navigation
+Search NYTimes
+Site Navigation
+Site Mobile Navigation
+Small Video Promo Heds
+Fix MM
+Hiding Hacks
+Centered Feature Photo Spot Treatment
+Bullet Treatments
+Breaking News
+Developing Headers
+HPHEADER STYLING
+Newsletter Sign-Up Modules
+Show All
+Top News
+A Rocky First Weekend
+Trump Troubles Some Top Aides
+By PETER BAKER
+GLENN THRUSH
+MAGGIE HABERMAN
+PM ET
+President Trump
+White House Pushes
+Alternative Facts
+Here Are
+By NICHOLAS FANDOS
+News Media Expresses Alarm
+PM ET
+Suit Will Seek End
+Foreign Payments
+Firms
+By ERIC LIPTON
+ADAM LIPTAK
+PM ET
+A
+Emoluments Clause
+Repeal Care Act Revives Talk
+High-Risk Pools
+By REED ABELSON
+MORE IN POLITICS
+Health Plan Converts Medicaid
+Block Grants
+Aide Says
+PM ET
+What Does
+Executive Order Against
+Health Act Do
+Senators Hope
+Speed Up Confirmations
+Presidency Already Warps Israeli-Palestinian Politics
+By IAN FISHER
+PM ET
+The
+American Embassy
+Trump Speaks With Netanyahu
+Thaw U
+PM ET
+More News
+United Airlines Flights Delayed
+Computer Problem
+PM ET
+Samsung Blames Battery
+Design Flaws
+PM ET
+European Art Trafficking Crackdown
+PM ET
+Baseball Players Die
+Dominican Republic
+PM ET
+Gambia Is Back Again
+Its New Leader Is Still
+The New York Times
+Bomb Had Been Dropped
+By RICHARD FAUSSET
+JONAH ENGEL BROMWICH
+Your Morning Briefing
+By CHARLES McDERMID
+PM ET
+Smarter Living
+Someday You May Be Eating
+By KENNETH CHANG
+The New Health Care
+How Pet Care Helps Explain Human Health Care Spending
+By AUSTIN FRAKT
+S MARCH
+March Was
+Ringing Success
+Now What
+By SUSAN CHIRA
+JONATHAN MARTIN
+PM ET
+Washington March Had
+Times More People Than Inauguration
+Rust Belt Town
+Some Cheers From Afar
+Pictures From Women
+Every Continent
+Clear Message
+Change Will Come
+When Your Loved Ones Voted
+Other Way
+By MARGARET CHEATHAM WILLIAMS
+ALEXANDRA GARCIA
+TAIGE JENSEN
+The Daily
+Women March
+Ruth Fremson
+The New York Times
+The Daily
+Undersea Museum Keeps Fish Feeding
+Its Social Commentary Biting
+By RAPHAEL MINDER
+Patriots Demolish Steelers
+By BEN SHPIGEL
+PM ET
+New England
+Super Bowl
+Falcons Thrash Packers
+By BILL PENNINGTON
+PM ET
+Matt Ryan
+Green Bay
+Subtle Textbook Changes Raise Alarm
+By ELLEN BARRY
+JULFIKAR ALI MANIK
+PM ET
+Bangladesh Protests Shake Global Workshop
+PM ET
+Brenda Barnes
+Pepsi C
+Who Quit
+By LANDON THOMAS Jr
+New York Now Lags
+By WILLIAM NEUMAN
+California Today
+Sign Up
+Get California Today
+Sign Up
+Get California Today
+Classic Novel That Predicted Trump
+Sinclair Lewis
+It Can
+Happen Here
+Retired Circus Animals Prepare
+Second Act
+Jenny Vidbel
+New York
+Is This Los Angeles
+Million Man
+Michael Govan
+Los Angeles County Museum
+Sunday Review
+News Analysis
+Bailey Make Room
+New Ringmaster
+By SAM ROBERTS
+Like Nero
+Donald Trump
+The Republican Health Care Con
+The President Who Buried Humility
+The Tempting
+May Be
+Best Year Ever
+David Leonhardt
+Great Working-Class Colleges
+User Subscriptions
+On Guard
+Reporters Gear Up
+Cover President Trump
+Four Years From Now
+Be Better Off
+Worse Off
+Times Insider
+On Guard
+Reporters Gear Up
+Cover President Trump
+The Crossword
+Play Today
+The Crossword
+Play Today
+Your Reading List
+Reading List
+Reading List
+Learn More
+Send Feedback
+The Sweeping Changes
+Obama Era
+One Man
+Way We Die
+Reading List
+Remove Saved Item
+Weekend Reads
+The Neediest Cases
+Her Daughters
+Latisha Hopewell
+Neediest Cases
+The New York Times Neediest Cases Fund
+New York
+From Our Advertisers
+Video Player
+Inside Nytimes
+Pro Basketball
+Life Is Good
+Golden State Warriors
+The Conversation Placebo
+Communication
+The Matriarch Behind Beyonc
+Settlement Makes Way
+Star Trek
+Fan Film
+Sunday Review
+How Not
+Be Afraid
+Pioneering Movie Stuntwoman Dies
+Book Review
+How Did Rumi Become
+Best-Selling Poet
+Inauguration With Millennials
+Ars Longa
+Except When MoMA Throws It Out
+A Sundance Hit May Not Make You Rich Anymore
+Sunday Review
+Does Breast Milk Have
+Sex Bias
+Trump Presidency Is Already Altering Israeli-Palestinian Politics
+To Secular Bangladeshis
+Textbook Changes Are
+Cubans Newly Blocked
+Border Place Hopes
+Business Day
+Bangladesh Shake
+Global Workshop
+Samsung Blames Battery
+Design Flaws
+Galaxy Note
+News Media
+Expresses Alarm
+Finding Myself Marching
+The Republican Health Care Con
+Frank Bruni
+The President Who Buried Humility
+At Least
+Tornadoes Sweep Southeast
+Health Plan Would Convert Medicaid
+Block Grants
+Aide Says
+After Success
+Question Remains
+Self-Driving System Cleared
+Deadly Crash
+Big Ten Universities Entering
+New Realm
+Clearing Out
+App Stores
+Government Censorship Made Easier
+Now That Trump Is President
+How Will TV Respond
+Two Museum Exhibits
+From Jingles
+Pop Hits
+Is Music
+Some Ears
+Rocky First Weekend
+Trump Troubles Even His Top Aides
+Trump Speaks With Netanyahu
+Thaw U
+Trump Won
+Release His Tax Returns
+Top Aide Says
+Melania Trump
+America First
+Inaugural Wardrobe
+Catching Up With
+Matriarch Behind Beyonc
+These Young Adult Novels Come With Back Stories
+The Authors
+Art-House Fare Hopes
+Oscar-Nod Push
+Rules North America
+Sundance Hit May Not Make You Rich Anymore
+Night Shyamalan
+Has Personality
+New York
+Leading Foe
+New York Lags Under
+Retired Big Apple Circus Animals Prepare
+Their Second Act
+A Club Where Lions Dance
+Traditions Take Root
+Tom Brady
+Patriots Overwhelm Steelers
+Super Bowl LI
+Falcons Thrash Packers
+Reach Second Super Bowl
+Baseball Tragedy
+Two Players Die
+Dominican Republic
+BroadwayCon Faces Dispute With Actors
+Equity Association
+Distraught Yet Upbeat
+Broadway Stars Give
+August Wilson
+Magnifies Marginalized Souls
+Solve Namibia
+Fairy Circle Mystery
+A Conversation With
+What Did Neanderthals Leave
+Modern Humans
+Some Surprises
+Tasmanian Tigers
+Brains Yield Clues Long After Extinction
+Peter Abrahams
+South African Who Wrote
+Maggie Roche
+Who Harmonized With Her Singing Sisters
+Ronald Webster
+Leader Who Plotted Anguilla Revolution
+Now That Trump Is President
+How Will TV Respond
+Rita Moreno Aims
+Right Accent
+One Day
+Reality TV Goes
+Drug Makers Offer
+Control Global Epidemics
+Health Secretary Is Vague
+Replacing Affordable Care Act
+Phys Ed
+Running May Be Good
+Your Knees
+A Return
+Tropical Life
+Forest Born Out
+Mount Fuji
+The Evenings
+Dutch Classic
+It Only Took
+The Long View
+Been Here Before
+Jon Meacham
+Our Discontent
+Classic Novel That Predicted Trump
+In Navient Lawsuits
+Unsettling Echoes
+Past Lending Crisis
+Nominee Betsy DeVos
+Education Basics Is Open
+Lois Dickson Rice
+Trailblazing Executive Behind Pell Grants
+A Good Appetite
+A Popover With
+Deep Secret
+City Kitchen
+Chicken With
+French Accent
+The Times
+Corsican Reds
+Case Study
+Wine Terroir
+Sunday Review
+Frank Bruni
+The President Who Buried Humility
+The Republican Health Care Con
+Ross Douthat
+The Tempting
+Real Estate
+The History Hidden
+Landlords Seeking Eviction Call Bradley Silverbush
+The Beginning
+The Upshot
+Public Health
+What Does Trump
+Executive Order Against Obamacare Actually Do
+Gender Inequality
+Republican Men Say It
+Better Time
+Woman Than
+Economic View
+Federal Policy Will Shift
+Not All States Will Shift With It
+To Obama With Love
+Who Decides Who Counts
+Native American
+Photo Essay
+Where Americans Still Stand Together
+Self-Driving System Cleared
+Deadly Crash
+The BMW X4 M40i Is Fast
+Not Practical
+A Whiff
+New-Car Smell
+Page Flip Away
+T Magazine
+Fashion Shows
+Rick Owens
+Louis Vuitton
+Dries Van Noten
+Four Things T Editors Are Really Into Right Now
+Beautiful Images
+Artists New
+Very Old
+Times Insider
+Will Shortz
+Puzzle Master
+Putting The Times
+First Email Address
+What We
+Real Estate
+Georgette Mosbacher Puts Fifth Avenue Co-op
+Market
+By VIVIAN MARINO
+Rent
+Sell Your Home
+Most EmailedMost ViewedTrendingRecommended
+Home Page
+Site Index
+The New York Times
+Site Index Navigation
+Op-Ed Columnists
+Contributing Writers
+Op-Ed Contributors
+Sunday Review
+Taking Note
+Public Editor
+Events Guide
+Events Guide
+Real Estate
+T Magazine
+Times Topics
+Public Editor
+Events Guide
+NYT Store
+Times Journeys
+Manage My Account
+Home Delivery
+Digital Subscriptions
+Times Insider
+Email Newsletters
+Gift Subscriptions
+Corporate Subscriptions
+Education Rate
+Mobile Applications
+Replica Edition
+Site Information Navigation
+The New York Times Company
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms
+Service
+Terms
+Site Information Navigation
+Site Map
+Help
+Site Feedback
+Subscriptions
+View Mobile Version
+[links]
+http://www.nytimes.com/content/help/site/ie9-support.html
+#top-news
+#site-index-navigation
+http://cn.nytimes.com
+http://www.nytimes.com/es/
+http://www.nytimes.com/
+http://www.nytimes.com/pages/todayspaper/index.html
+http://www.nytimes.com/video
+http://www.nytimes.com/pages/world/index.html
+http://www.nytimes.com/pages/national/index.html
+http://www.nytimes.com/pages/politics/index.html
+http://www.nytimes.com/pages/nyregion/index.html
+http://www.nytimes.com/pages/business/index.html
+http://www.nytimes.com/pages/business/international/index.html
+http://www.nytimes.com/pages/opinion/index.html
+http://www.nytimes.com/pages/opinion/international/index.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/section/science
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/pages/sports/index.html
+http://www.nytimes.com/pages/sports/international/index.html
+http://www.nytimes.com/pages/arts/index.html
+http://www.nytimes.com/pages/arts/international/index.html
+http://www.nytimes.com/pages/fashion/index.html
+http://www.nytimes.com/pages/style/international/index.html
+http://www.nytimes.com/pages/dining/index.html
+http://www.nytimes.com/pages/dining/international/index.html
+http://www.nytimes.com/section/travel
+http://www.nytimes.com/pages/magazine/index.html
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/pages/politics/index.html?src=hpHeader
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html
+https://www.nytimes.com/2017/01/22/us/politics/president-trump-inauguration-crowd-white-house.html
+https://www.nytimes.com/2017/01/22/business/media/sean-spicer-donald-trump-alternative-facts.html
+https://www.nytimes.com/2017/01/22/us/politics/trump-foreign-payments-constitution-lawsuit.html
+https://www.nytimes.com/2017/01/22/business/president-donald-trump-health-insurance-high-risk-pool.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
+https://www.nytimes.com/2017/01/21/upshot/what-does-the-order-against-the-health-law-actually-do.html
+https://www.nytimes.com/2017/01/22/us/politics/senate-republicans-cabinet-confirmations-president-trump.html
+https://www.nytimes.com/2017/01/22/arts/aziz-ansari-donald-trump-snl.html
+https://www.nytimes.com/2017/01/22/arts/aziz-ansari-monologue-transcript-snl.html
+https://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-benjamin-netanyahu-us-israel-relations.html
+https://www.nytimes.com/2017/01/22/us/united-airlines-delay-computer.html
+https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.html
+https://www.nytimes.com/2017/01/22/world/europe/75-arrested-in-european-crackdown-on-art-trafficking.html
+https://www.nytimes.com/2017/01/22/sports/baseball/yordano-ventura-andy-marte-car-crashes.html
+https://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow-yahya-jammeh.html
+https://www.nytimes.com/tips
+https://www.nytimes.com/tips
+http://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi.html
+https://www.nytimes.com/2017/01/22/briefing/asia-australia-briefing.html
+https://www.nytimes.com/2017/01/22/briefing/asia-australia-briefing.html
+http://www.nytimes.com/DesktopHome
+http://www.nytimes.com/spotlight/times-tips?contentCollection=smarter-living
+https://www.nytimes.com/2017/01/09/science/genetically-edited-foods-crispr.html
+https://www.nytimes.com/2017/01/09/science/genetically-edited-foods-crispr.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html?hp&target=comments#commentsContainer
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+http://www.nytimes.com/interactive/2017/01/22/us/politics/womens-march-trump-crowd-estimates.html
+https://www.nytimes.com/2017/01/21/us/niles-michigan-trump-no-women-march.html
+http://www.nytimes.com/interactive/2017/01/21/world/womens-march-pictures.html
+https://www.nytimes.com/2017/01/21/nyregion/womens-march-donald-trump-manhattan.html
+http://www.nytimes.com/interactive/2017/01/20/us/politics/womens-march-on-washington-voices.html
+https://www.nytimes.com/video/us/politics/100000004881605/family-conversations-on-trump.html
+http://www.nytimes.com/video/the-daily-360
+https://www.nytimes.com/video/us/politics/100000004867489/witness-the-womens-march-in-washington.html
+/video/the-daily-360
+https://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html
+https://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html
+https://www.nytimes.com/section/sports/football
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+https://www.nytimes.com/2017/01/20/business/brenda-barnes-dead.html
+https://www.nytimes.com/2017/01/20/business/brenda-barnes-dead.html
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+http://www.nytimes.com/newsletters/california-today
+http://www.nytimes.com/newsletters/california-today
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/18/arts/design/michael-govan-lacma-director.html
+https://www.nytimes.com/2017/01/18/arts/design/michael-govan-lacma-director.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/21/sunday-review/barnum-bailey-make-room-for-a-new-ringmaster.html
+https://www.nytimes.com/2017/01/21/sunday-review/barnum-bailey-make-room-for-a-new-ringmaster.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-tempting-of-the-media.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/why-2017-may-be-the-best-year-ever.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html?hp&target=comments#commentsContainer
+https://twitter.com/nytopinion
+http://www.nytimes.com/2017/01/20/insider/on-guard-reporters-gear-up-to-cover-president-trump.html
+http://www.nytimes.com/interactive/2017/01/20/insider/insider-newsletter-poll-4.html
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/2017/01/20/insider/on-guard-reporters-gear-up-to-cover-president-trump.html
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://wordplay.blogs.nytimes.com
+/saved
+/saved
+http://www.nytimes.com/content/help/site/save-reading-list.html
+http://nyt.qualtrics.com/SE/?SID=SV_71WmGUzc5CUhhs1
+http://www.nytimes.com/column/neediest-cases
+https://www.nytimes.com/2017/01/22/nyregion/neediest-cases-fund-college-degree.html
+https://www.nytimes.com/2017/01/22/nyregion/neediest-cases-fund-college-degree.html
+https://www.gofundme.com/the-new-york-times-neediest-cases/donate
+http://www.nytimes.com/video
+http://www.nytimes.com/video?src=vidm
+http://www.nytimes.com/pages/sports/basketball/index.html
+https://www.nytimes.com/2017/01/21/sports/basketball/golden-state-warriors-james-michael-mcadoo-nba.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/19/opinion/sunday/the-conversation-placebo.html
+http://www.nytimes.com/section/fashion
+https://www.nytimes.com/2017/01/21/fashion/tina-knowles-lawson-beyonce-solange-matriarch.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/21/movies/star-trek-axanar-fan-film-paramount-cbs-settlement.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/20/opinion/sunday/how-not-to-be-afraid.html
+http://www.nytimes.com/pages/index.html
+https://www.nytimes.com/2017/01/20/movies/paula-dell-dead-hollywood-stuntwoman.html
+http://www.nytimes.com/section/books/review
+https://www.nytimes.com/2017/01/20/books/review/rumi-brad-gooch.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/20/opinion/sunday/at-the-inauguration-with-millennials-for-trump.html
+http://www.nytimes.com/section/arts/design
+https://www.nytimes.com/2017/01/20/arts/ars-longa-except-when-moma-throws-it-out.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/20/movies/having-a-sundance-hit-may-not-make-you-rich-anymore.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/21/opinion/sunday/does-breast-milk-have-a-sex-bias.html
+http://www.nytimes.com/section/arts/television
+https://www.nytimes.com/2017/01/20/arts/television/review-theyve-sob-remade-beaches.html
+http://www.nytimes.com/pages/world/index.html
+https://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/world/americas/cubans-us-border-policy-wet-foot-dry-foot-obama-trump.html
+http://www.nytimes.com/pages/business/index.html
+https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.html
+https://www.nytimes.com/2017/01/22/business/media/sean-spicer-donald-trump-alternative-facts.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/finding-myself-marching.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+http://www.nytimes.com/section/us
+https://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi-death.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+http://www.nytimes.com/pages/technology/index.html
+https://www.nytimes.com/2017/01/19/business/tesla-model-s-autopilot-fatal-crash.html
+https://www.nytimes.com/2017/01/19/sports/big-ten-is-entering-a-new-realm-e-sports.html
+https://www.nytimes.com/2017/01/18/technology/clearing-out-the-app-stores-government-censorship-made-easier.html
+http://www.nytimes.com/pages/arts/index.html
+https://www.nytimes.com/2017/01/22/arts/television/now-that-trump-is-president-how-will-tv-respond.html
+https://www.nytimes.com/2017/01/22/arts/design/trump-obama-portrait-museum.html
+https://www.nytimes.com/2017/01/22/arts/music/jukedeck-artificial-intelligence-songwriting.html
+http://www.nytimes.com/pages/politics/index.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-benjamin-netanyahu-us-israel-relations.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-tax-returns.html
+http://www.nytimes.com/section/fashion
+https://www.nytimes.com/2017/01/21/fashion/melania-trump-inaugural-ballgown.html
+https://www.nytimes.com/2017/01/21/fashion/tina-knowles-lawson-beyonce-solange-matriarch.html
+https://www.nytimes.com/2017/01/21/fashion/transgender-teen-literature.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/22/movies/art-house-fare-hopes-for-an-oscar-nod-push-as-split-rules-north-america.html
+https://www.nytimes.com/2017/01/20/movies/having-a-sundance-hit-may-not-make-you-rich-anymore.html
+https://www.nytimes.com/2017/01/19/movies/split-review-m-night-shyamalan.html
+http://www.nytimes.com/section/nyregion
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/22/nyregion/a-club-where-lions-dance-and-traditions-take-root.html
+http://www.nytimes.com/pages/sports/index.html
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/sports/baseball/yordano-ventura-andy-marte-car-crashes.html
+http://www.nytimes.com/pages/theater/index.html
+https://www.nytimes.com/2017/01/22/arts/broadwaycon-faces-dispute-with-actors-equity-association.html
+https://www.nytimes.com/2017/01/20/arts/donald-trump-broadway-nyc.html
+https://www.nytimes.com/2017/01/19/theater/jitney-review-august-wilson.html
+http://www.nytimes.com/section/science
+https://www.nytimes.com/2017/01/19/science/fishing-for-clues-to-solve-namibias-fairy-circle-mystery.html
+https://www.nytimes.com/2017/01/20/science/john-anthony-capra-neanderthals-dna-humans.html
+https://www.nytimes.com/2017/01/20/science/tasmanian-tigers-brains.html
+http://www.nytimes.com/section/obituaries
+https://www.nytimes.com/2017/01/22/books/peter-abrahams-a-south-african-who-wrote-of-apartheid-and-identity-dies-at-97.html
+https://www.nytimes.com/2017/01/21/arts/music/maggie-roche-dead-singer-songwriter.html
+https://www.nytimes.com/2017/01/22/world/americas/ronald-webster-anguilla-revolution-dies.html
+http://www.nytimes.com/section/arts/television
+https://www.nytimes.com/2017/01/22/arts/television/now-that-trump-is-president-how-will-tv-respond.html
+https://www.nytimes.com/2017/01/22/arts/television/netflix-one-day-at-a-time-rita-moreno-interview.html
+https://www.nytimes.com/2017/01/20/arts/television/trump-inauguration-mr-reality-tv-goes-to-washington.html
+http://www.nytimes.com/pages/health/index.html
+https://www.nytimes.com/2017/01/18/health/partnership-epidemic-preparedness.html
+https://www.nytimes.com/2017/01/18/us/politics/nominee-for-health-secretary-is-vague-on-replacing-affordable-care-act.html
+https://www.nytimes.com/2017/01/18/well/move/running-may-be-good-for-your-knees.html
+http://www.nytimes.com/section/travel
+https://www.nytimes.com/2017/01/17/travel/guadeloupe-caribbean-food-french.html
+https://www.nytimes.com/2017/01/18/travel/hiking-aokigahara-forest-japan-mount-fuji-lava.html
+http://www.nytimes.com/interactive/2017/01/19/travel/what-to-do-36-hours-in-galveston-texas.html
+http://www.nytimes.com/section/books
+https://www.nytimes.com/2017/01/22/books/the-evenings-a-dutch-classic-arrives-in-english-it-only-took-70-years.html
+https://www.nytimes.com/2017/01/17/books/review/jon-meacham-on-literature-of-our-discontent.html
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+http://www.nytimes.com/section/education
+https://www.nytimes.com/2017/01/19/business/dealbook/navient-loans-lawsuit.html
+https://www.nytimes.com/2017/01/18/us/politics/betsy-devos-education-secretary-confirmation-donald-trump.html
+https://www.nytimes.com/2017/01/18/us/lois-dickson-rice-dead-pell-grants.html
+http://www.nytimes.com/pages/dining/index.html
+https://www.nytimes.com/2017/01/20/dining/buckwheat-popover-video-recipe.html
+https://www.nytimes.com/2017/01/20/dining/chicken-rice-recipe.html
+https://www.nytimes.com/2017/01/19/dining/review-red-wine-corsica-terroir.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-tempting-of-the-media.html
+http://www.nytimes.com/pages/realestate/index.html
+https://www.nytimes.com/2017/01/20/realestate/the-history-hidden-in-the-walls.html
+https://www.nytimes.com/2017/01/20/realestate/landlords-seeking-eviction-call-bradley-silverbush.html
+https://www.nytimes.com/2017/01/20/realestate/the-beginning-of-a-buyers-market-in-manhattan.html
+http://www.nytimes.com/section/upshot
+https://www.nytimes.com/2017/01/21/upshot/what-does-the-order-against-the-health-law-actually-do.html
+https://www.nytimes.com/2017/01/17/upshot/republican-men-say-its-a-better-time-to-be-a-woman-than-a-man.html
+https://www.nytimes.com/2017/01/20/upshot/federal-policy-will-shift-not-all-states-will-shift-with-it.html
+http://www.nytimes.com/section/magazine
+https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html
+https://www.nytimes.com/2017/01/18/magazine/who-decides-who-counts-as-native-american.html
+http://www.nytimes.com/interactive/2017/01/19/magazine/parades-across-america-george-georgiou.html
+http://www.nytimes.com/pages/automobiles/index.html
+https://www.nytimes.com/2017/01/19/business/tesla-model-s-autopilot-fatal-crash.html
+https://www.nytimes.com/2017/01/19/automobiles/autoreviews/the-bmw-x4-m40i-is-fast-if-not-practical.html
+https://www.nytimes.com/2017/01/19/automobiles/wheels/a-whiff-of-a-new-car-smell-just-a-page-flip-away.html
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/slideshow/2017/01/20/t-magazine/fashion/rick-owens-louis-vuitton-dries-van-noten-mens-paris-fashion-week.html
+https://www.nytimes.com/2017/01/20/t-magazine/diptyque-facial-oil-arlo-skye-suitcase-khiry.html
+http://www.nytimes.com/slideshow/2017/01/20/t-magazine/art/naturalia-paul-kasmin-old-masters.html
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/interactive/2017/01/10/insider/events/will-shortz-meet-the-puzzle-master.html
+https://www.nytimes.com/2017/01/20/insider/putting-the-timess-first-email-address-to-bed.html
+https://www.nytimes.com/2017/01/20/insider/what-were-reading.html
+http://www.nytimes.com/pages/realestate/index.html
+https://www.nytimes.com/2017/01/20/realestate/georgette-mosbacher-puts-fifth-avenue-co-op-on-the-market.html
+https://www.nytimes.com/2017/01/20/realestate/georgette-mosbacher-puts-fifth-avenue-co-op-on-the-market.html
+http://www.nytimes.com/real-estate/find-a-home
+http://realestateads.nytimes.com/
+http://www.nytimes.com/gst/mostemailed.html
+http://www.nytimes.com/gst/mostpopular.html
+http://www.nytimes.com/trending/
+http://www.nytimes.com/recommendations
+http://www.nytimes.com/
+http://www.nytimes.com/
+http://www.nytimes.com/pages/world/index.html
+http://www.nytimes.com/pages/national/index.html
+http://www.nytimes.com/pages/politics/index.html
+http://www.nytimes.com/pages/nyregion/index.html
+http://www.nytimes.com/pages/business/index.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/section/science
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/pages/sports/index.html
+http://www.nytimes.com/pages/education/index.html
+http://www.nytimes.com/pages/obituaries/index.html
+http://www.nytimes.com/pages/todayspaper/index.html
+http://www.nytimes.com/pages/corrections/index.html
+http://www.nytimes.com/pages/opinion/index.html
+http://www.nytimes.com/pages/opinion/index.html#columnists
+http://www.nytimes.com/pages/opinion/index.html#editorials
+http://www.nytimes.com/pages/opinion/index.html#contributing
+http://www.nytimes.com/pages/opinion/index.html#op-ed
+http://www.nytimes.com/pages/opinion/index.html#opinionator
+http://www.nytimes.com/pages/opinion/index.html#letters
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+http://www.nytimes.com/pages/opinion/index.html#takingNote
+http://www.nytimes.com/roomfordebate
+http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+http://www.nytimes.com/video/opinion
+http://www.nytimes.com/pages/arts/index.html
+http://www.nytimes.com/pages/arts/design/index.html
+http://www.nytimes.com/pages/books/index.html
+http://www.nytimes.com/pages/arts/dance/index.html
+http://www.nytimes.com/pages/movies/index.html
+http://www.nytimes.com/pages/arts/music/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/pages/arts/television/index.html
+http://www.nytimes.com/pages/theater/index.html
+http://www.nytimes.com/video/arts
+http://www.nytimes.com/pages/automobiles/index.html
+http://www.nytimes.com/crosswords/
+http://www.nytimes.com/pages/dining/index.html
+http://www.nytimes.com/pages/education/index.html
+http://www.nytimes.com/pages/fashion/index.html
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/section/jobs
+http://www.nytimes.com/pages/magazine/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/section/travel
+http://www.nytimes.com/pages/fashion/weddings/index.html
+http://www.nytimes.com/ref/classifieds/
+http://www.nytimes.com/marketing/tools-and-services/
+http://www.nytimes.com/pages/topics/
+http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/interactive/blogs/directory.html
+http://www.nytimes.com/pages/multimedia/index.html
+http://lens.blogs.nytimes.com/
+http://www.nytimes.com/video
+https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage
+http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP
+http://www.nytimes.com/seeallnav
+http://www.nytimes.com/membercenter
+http://www.nytimes.com/hdleftnav
+http://www.nytimes.com/digitalleftnav
+http://www.nytimes.com/tpnav
+http://www.nytimes.com/crosswords/index.html
+http://www.nytimes.com/marketing/newsletters
+https://myaccount.nytimes.com/mem/tnt.html
+http://www.nytimes.com/giftleftnav
+http://www.nytimes.com/corporateleftnav
+http://www.nytimes.com/educationleftnav
+http://www.nytimes.com/services/mobile/index.html
+http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY
+http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html
+http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html
+http://www.nytco.com/careers
+http://nytmediakit.com/
+http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp
+http://www.nytimes.com/privacy
+http://www.nytimes.com/ref/membercenter/help/agree.html
+http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html
+http://spiderbites.nytimes.com
+http://www.nytimes.com/membercenter/sitehelp.html
+https://myaccount.nytimes.com/membercenter/feedback.html
+http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW
+http://mobile.nytimes.com/
+[tags]
+<html><html><html><html><head><title></title><meta/><link/><link/><link/><link/><meta/><meta/><meta/><link/><link/><link/><link/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><script></script><script></script><script></script></script><script></script><script><esi/></script></script><script></script><script></script><script></script><script></script></head><body><style></style><div><div><div><div><span><i></span><a></a></span></div></div></div></div><div><header><div></div><div></div><div><div><div><button><i></span></button><button><i></span></button><a></a><a></a></div><div><div></div><div><button></button><button></button><button></span></button><button><i></span></button></div></div></div></div><div><div><ul><li></li><li></a></li><li></a></li></ul></div><div></div><div></div><h2><svg><image></image></svg></a></h2><ul><li></li></ul></div><nav><h2></h2><ul><li><button><i></i><span></span></button></li><li><button><i></i><span></span></button></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><button></button></li></ul></nav><div><button></span></button><nav><h2></h2><form><div><div><label></label></div><div><input/><button></span></button><div><ol></ol></div><button></button></div></div></form></nav></div><div></div></header><div></div><nav><h2></h2></nav><nav><h2></h2></nav><div></div><div><main><div></div><div></div><div></div><div><div><script></script><style></style><script></script><style></style></div></div><div><div><section><h2></h2><div><div><div><div><div><h6><a></a></h6></div></div><div><article><h2></a></h2><p></time></p><p><ul><li></li><li></li></ul></p></article></div><div><article><h2></a></h2><p></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></time></h2></article></li></ul></div><div><article><h2></a></h2><p></time></p><p></p></article></div><div><article><h2></a></h2><p></p><p></p></article></div><div><h3></h3><ul><li><article><h2></time></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article></a></h2></article></li></ul></div><div><article><h2></a></h2><p></time></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></time></h2></article></li></ul></div><hr><h3></h3><ul><li><article><h2></time></h2></article></li><li><article><h2></time></h2></article></li><li><article><h2></time></h2></article></li><li><article><h2></time></h2></article></li><li><article><h2></a></h2></article></li></ul></div><hr><style></style><div><div><div><h1><a></a></h1><h2><a></span></a></h2></div></div></div><script></script></div></div></div><div><div><div><script></script><script></script><style></style><div><h2></a></h2><p></p><p></p></article></div></div><hr/><div><div><article><figure><div><a/></a></div></figure><h2></a></h2><p></time></p><p></p></article></div><div><style></style><div><div><a><span></span></span><span></span></a></div></div><script><span><span><span></span><span></span></script></div><div><div><h6><a></a></h6></div><div><article><h2></a></h2><div><a/></a></div><p></p><p></p></article><article><h3></h3><h2></a></h2><div><a/></a></div><p></p><p></p><p><a></span></a></p></article></div></div><hr><div><h6></h6></div></div></div></div></div></section></div></div></main></div></div></body></html><article><h2></a></h2><div><a/></a></div><p></time></p><p></p></article><div><ul><li><div></div></li><li><article><h2></span></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></span></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li></ul></div><div><style></style><div><div><a><div><div><div><div><svg><circle></circle></svg><svg><polyline></polyline></svg></div><div><span></span></div></div><h2></h2><div><svg><g><g><g><circle></circle><path></path><g><ellipse></ellipse><ellipse></ellipse></g><path></path></g></g></g></svg></div></div></div></a><figcaption><p></p></figcaption></figure></div><div></div></div><div><h6><a></a></h6></div><figure><a><div><div><div><div><svg><circle></circle></svg><svg><polyline></polyline></svg></div><div><span></span></div></div><h2></h2><div><svg><g><g><g><circle></circle><path></path><g><ellipse></ellipse><ellipse></ellipse></g><path></path></g></g></g></svg></div></div></div></a><figcaption><p></p></figcaption><a><div><p></p><p></p></div></a></figure></div></div></div></div><hr><article><figure><div><a/></a></div></figure><h2></a></h2><p></p><p></p></article></div><hr><div><h6><a></a></h6></div><style></style><div><div><h2></a></h2><p></time></p><div><a/></a></div><p></p></article></div></div><div><h2></a></h2><p></time></p><div><a/></a></div><p></p></article></div></div></div></div><hr><article><h2></a></h2><div><a/></a></div><p></time></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></time></h2></article></li></ul></div><hr><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><div><style></style><div><div><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div></div></div><hr><article><figure><div><a/></a></div></figure><h2></a></h2><p></p></article><div><div></div></div><script></script></div><div><hr/><div><h2></h2><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div></div></div><div><div></div><div></div><section><div><div><section><h2></a></h2></section></div></div><div><div><div><div><article><h3></h3><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><div><ul><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li></ul></div></div></div><div><div><div><article><figure><div><a/></a></div></figure><h3></h3><h2></a></h2><p></p><p><a></span></a></p></article></div><div><ul><li><article><h2></a></h2></article></li></ul></div></div></div></div><div><div><style></style><style></style></div></div></section><section><h2></h2><div><div><ul><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul><div><a><svg><image></image></svg></a></div></div></div><div><div><div><div><div><article><h3><a></a></h3><h2><a></a></h2></article></div></div><div><div><article><h3><a></a></h3><h2><a></a></h2><div><a><img/></a></div></article></div></div></div></div></div><div><div><div><div><div><article><h3><a></a></h3><h2><a></a></h2><div><a><img/></a></div></article></div></div><div><div><article><h3><a></a></h3></article></div></div></div></div></div></section><div></div><div><div><style></style><div><div><h2></h2><div></a></div></div><div><ol></ol><div><p></p><p><strong></strong></p></div><ol></ol></div><div><a></a><p><span></span><span><a></a></span></p></div></div><script><li></li><article></div></div></article><figure></figure><li></li><article></div></div></article><figure></figure></script><div><div><div><header><h4></h4><span></span></header><div></div><script></script><script></script></div></div></div><style></style></div><div><style></style><div><h6><a></a></h6></div></div><div><article><figure><div><a/></a></div></figure><h2></a></h2><p></p></article></div><div><hr/><p><a></a></p></div></div></div></div><div></div><div></div></div><section><h2></h2><ul><li></li><li></li><li></li><li></li><li></li></ul></section><div></div><div><div><div><div></span></div></div><section><header><h2><span></span></a></h2><a></a></header><div><article><figure><span></span><img/><div></div><div></div><div></div><figcaption></figcaption></figure></article></div><div><div><ul></ul></div></div></section></div></div><section><div><h2></h2><div><div><button><div><span></span><div></div></div></button><button><div><span></span><div></div></div></button></div><div><ol><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><h2></h2><p></p></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><h2></h2><p></p></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li></ol></div></div></div></section><div></div><div><div><hr/><section><div><h2></h2><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div></div></section></div><div><section><div><div><div><div><h2><a></a></h2><article><h3></h3><h2></a></h2><p></p><div><a/></a></div><p></p></article></div><div><ul><li><article></a></h2></article></li><li><article></a></h2></article></li></ul></div></div></div><div><div><div><div><div></div><div></div></div></div><div></div></div></div></div></section><section><div><ul><li></a></li></ul></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></span></div></div></section><div></div><div></div></div></div><div></div><div></div><div></div><div></div><section><header><p></a></p><h2><span></span><a><span></span></a></h2><script></script></header><nav><h2></h2><div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li></li><li><i></i><a></a></li><li><i></i><a></a></li><li><i></i><a></a></li><li><i></i><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li></ul></div></div></nav></section><footer><nav><h2></h2><ul><li><a><span/></span></a></li><li></a></li><li></a></li><li></a></li><li></a></li><li><a></a></li><li><a></a></li><li></a></li></ul></nav><nav><h2></h2><ul><li><a></a></li><li><a></a></li><li><a></a></li><li></a></li></ul></nav><div><a></a></div><div></div></footer><script></script><esi/><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+[links]
+http://www.nytimes.com/content/help/site/ie9-support.html
+#top-news
+#site-index-navigation
+http://cn.nytimes.com
+http://www.nytimes.com/es/
+http://www.nytimes.com/
+http://www.nytimes.com/pages/todayspaper/index.html
+http://www.nytimes.com/video
+http://www.nytimes.com/pages/world/index.html
+http://www.nytimes.com/pages/national/index.html
+http://www.nytimes.com/pages/politics/index.html
+http://www.nytimes.com/pages/nyregion/index.html
+http://www.nytimes.com/pages/business/index.html
+http://www.nytimes.com/pages/business/international/index.html
+http://www.nytimes.com/pages/opinion/index.html
+http://www.nytimes.com/pages/opinion/international/index.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/section/science
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/pages/sports/index.html
+http://www.nytimes.com/pages/sports/international/index.html
+http://www.nytimes.com/pages/arts/index.html
+http://www.nytimes.com/pages/arts/international/index.html
+http://www.nytimes.com/pages/fashion/index.html
+http://www.nytimes.com/pages/style/international/index.html
+http://www.nytimes.com/pages/dining/index.html
+http://www.nytimes.com/pages/dining/international/index.html
+http://www.nytimes.com/section/travel
+http://www.nytimes.com/pages/magazine/index.html
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/pages/politics/index.html?src=hpHeader
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html
+https://www.nytimes.com/2017/01/22/us/politics/president-trump-inauguration-crowd-white-house.html
+https://www.nytimes.com/2017/01/22/business/media/sean-spicer-donald-trump-alternative-facts.html
+https://www.nytimes.com/2017/01/22/us/politics/trump-foreign-payments-constitution-lawsuit.html
+https://www.nytimes.com/2017/01/22/business/president-donald-trump-health-insurance-high-risk-pool.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
+https://www.nytimes.com/2017/01/21/upshot/what-does-the-order-against-the-health-law-actually-do.html
+https://www.nytimes.com/2017/01/22/us/politics/senate-republicans-cabinet-confirmations-president-trump.html
+https://www.nytimes.com/2017/01/22/arts/aziz-ansari-donald-trump-snl.html
+https://www.nytimes.com/2017/01/22/arts/aziz-ansari-monologue-transcript-snl.html
+https://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-benjamin-netanyahu-us-israel-relations.html
+https://www.nytimes.com/2017/01/22/us/united-airlines-delay-computer.html
+https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.html
+https://www.nytimes.com/2017/01/22/world/europe/75-arrested-in-european-crackdown-on-art-trafficking.html
+https://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow-yahya-jammeh.html
+https://www.nytimes.com/2017/01/22/arts/television/homeland-season-6-episode-2-carrie-is-back-to-her-old-self-bending-rules.html
+https://www.nytimes.com/2017/01/22/arts/television/the-affair-season-3-episode-9-recap.html
+https://www.nytimes.com/tips
+https://www.nytimes.com/tips
+http://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi.html
+https://www.nytimes.com/2017/01/23/briefing/europe-briefing.html
+https://www.nytimes.com/2017/01/23/briefing/europe-briefing.html
+http://www.nytimes.com/DesktopHome
+http://www.nytimes.com/spotlight/times-tips?contentCollection=smarter-living
+https://www.nytimes.com/2017/01/09/science/genetically-edited-foods-crispr.html
+https://www.nytimes.com/2017/01/09/science/genetically-edited-foods-crispr.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html?hp&target=comments#commentsContainer
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+http://www.nytimes.com/interactive/2017/01/22/us/politics/womens-march-trump-crowd-estimates.html
+https://www.nytimes.com/2017/01/21/us/niles-michigan-trump-no-women-march.html
+http://www.nytimes.com/interactive/2017/01/21/world/womens-march-pictures.html
+https://www.nytimes.com/2017/01/21/nyregion/womens-march-donald-trump-manhattan.html
+http://www.nytimes.com/interactive/2017/01/20/us/politics/womens-march-on-washington-voices.html
+https://www.nytimes.com/video/us/politics/100000004881605/family-conversations-on-trump.html
+http://www.nytimes.com/video/the-daily-360
+https://www.nytimes.com/video/us/politics/100000004867489/witness-the-womens-march-in-washington.html
+/video/the-daily-360
+https://www.nytimes.com/2017/01/23/health/cervical-cancer-united-states-death-toll.html
+https://www.nytimes.com/2017/01/23/health/cervical-cancer-united-states-death-toll.html
+https://www.nytimes.com/section/sports/football
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+https://www.nytimes.com/2017/01/20/business/brenda-barnes-dead.html
+https://www.nytimes.com/2017/01/20/business/brenda-barnes-dead.html
+https://www.nytimes.com/2017/01/23/sports/soccer/referee-english-premier-league-mike-dean-soccer-mistakes.html
+https://www.nytimes.com/2017/01/23/sports/soccer/referee-english-premier-league-mike-dean-soccer-mistakes.html
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+http://www.nytimes.com/newsletters/california-today
+http://www.nytimes.com/newsletters/california-today
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/18/arts/design/michael-govan-lacma-director.html
+https://www.nytimes.com/2017/01/18/arts/design/michael-govan-lacma-director.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/21/sunday-review/barnum-bailey-make-room-for-a-new-ringmaster.html
+https://www.nytimes.com/2017/01/21/sunday-review/barnum-bailey-make-room-for-a-new-ringmaster.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-tempting-of-the-media.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/why-2017-may-be-the-best-year-ever.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html?hp&target=comments#commentsContainer
+https://twitter.com/nytopinion
+http://www.nytimes.com/2017/01/20/insider/on-guard-reporters-gear-up-to-cover-president-trump.html
+http://www.nytimes.com/interactive/2017/01/20/insider/insider-newsletter-poll-4.html
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/2017/01/20/insider/on-guard-reporters-gear-up-to-cover-president-trump.html
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://wordplay.blogs.nytimes.com
+/saved
+/saved
+http://www.nytimes.com/content/help/site/save-reading-list.html
+http://nyt.qualtrics.com/SE/?SID=SV_71WmGUzc5CUhhs1
+http://www.nytimes.com/column/neediest-cases
+https://www.nytimes.com/2017/01/22/nyregion/neediest-cases-fund-college-degree.html
+https://www.nytimes.com/2017/01/22/nyregion/neediest-cases-fund-college-degree.html
+https://www.gofundme.com/the-new-york-times-neediest-cases/donate
+http://www.nytimes.com/video
+http://www.nytimes.com/video?src=vidm
+http://www.nytimes.com/pages/world/europe/index.html
+https://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/19/opinion/sunday/the-conversation-placebo.html
+http://www.nytimes.com/section/fashion
+https://www.nytimes.com/2017/01/21/fashion/tina-knowles-lawson-beyonce-solange-matriarch.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/21/movies/star-trek-axanar-fan-film-paramount-cbs-settlement.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/20/opinion/sunday/how-not-to-be-afraid.html
+http://www.nytimes.com/pages/index.html
+https://www.nytimes.com/2017/01/20/movies/paula-dell-dead-hollywood-stuntwoman.html
+http://www.nytimes.com/section/books/review
+https://www.nytimes.com/2017/01/20/books/review/rumi-brad-gooch.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/20/opinion/sunday/at-the-inauguration-with-millennials-for-trump.html
+http://www.nytimes.com/section/arts/design
+https://www.nytimes.com/2017/01/20/arts/ars-longa-except-when-moma-throws-it-out.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/20/movies/having-a-sundance-hit-may-not-make-you-rich-anymore.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/21/opinion/sunday/does-breast-milk-have-a-sex-bias.html
+http://www.nytimes.com/pages/sports/basketball/index.html
+https://www.nytimes.com/2017/01/21/sports/basketball/golden-state-warriors-james-michael-mcadoo-nba.html
+http://www.nytimes.com/pages/world/index.html
+https://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/world/americas/cubans-us-border-policy-wet-foot-dry-foot-obama-trump.html
+http://www.nytimes.com/pages/business/index.html
+https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.html
+https://www.nytimes.com/2017/01/23/technology/snapchat-discover-takes-a-hard-line-on-misleading-and-explicit-images.html
+https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/in-beijing-and-washington-a-breath-of-foul-air.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+http://www.nytimes.com/section/us
+https://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi-death.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+http://www.nytimes.com/pages/technology/index.html
+https://www.nytimes.com/2017/01/19/business/tesla-model-s-autopilot-fatal-crash.html
+https://www.nytimes.com/2017/01/19/sports/big-ten-is-entering-a-new-realm-e-sports.html
+https://www.nytimes.com/2017/01/18/technology/clearing-out-the-app-stores-government-censorship-made-easier.html
+http://www.nytimes.com/pages/arts/index.html
+https://www.nytimes.com/2017/01/22/arts/television/now-that-trump-is-president-how-will-tv-respond.html
+https://www.nytimes.com/2017/01/22/arts/design/trump-obama-portrait-museum.html
+https://www.nytimes.com/2017/01/22/arts/music/jukedeck-artificial-intelligence-songwriting.html
+http://www.nytimes.com/pages/politics/index.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-benjamin-netanyahu-us-israel-relations.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-tax-returns.html
+http://www.nytimes.com/section/fashion
+https://www.nytimes.com/2017/01/21/fashion/melania-trump-inaugural-ballgown.html
+https://www.nytimes.com/2017/01/21/fashion/tina-knowles-lawson-beyonce-solange-matriarch.html
+https://www.nytimes.com/2017/01/21/fashion/transgender-teen-literature.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/22/movies/art-house-fare-hopes-for-an-oscar-nod-push-as-split-rules-north-america.html
+https://www.nytimes.com/2017/01/20/movies/having-a-sundance-hit-may-not-make-you-rich-anymore.html
+https://www.nytimes.com/2017/01/19/movies/split-review-m-night-shyamalan.html
+http://www.nytimes.com/section/nyregion
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/22/nyregion/a-club-where-lions-dance-and-traditions-take-root.html
+http://www.nytimes.com/pages/sports/index.html
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/23/sports/basketball/wnba-pay-overseas-safety-turkey-terrorism.html
+http://www.nytimes.com/pages/theater/index.html
+https://www.nytimes.com/2017/01/22/arts/broadwaycon-faces-dispute-with-actors-equity-association.html
+https://www.nytimes.com/2017/01/20/arts/donald-trump-broadway-nyc.html
+https://www.nytimes.com/2017/01/19/theater/jitney-review-august-wilson.html
+http://www.nytimes.com/section/science
+https://www.nytimes.com/2017/01/19/science/fishing-for-clues-to-solve-namibias-fairy-circle-mystery.html
+https://www.nytimes.com/2017/01/20/science/john-anthony-capra-neanderthals-dna-humans.html
+https://www.nytimes.com/2017/01/20/science/tasmanian-tigers-brains.html
+http://www.nytimes.com/section/obituaries
+https://www.nytimes.com/2017/01/22/books/peter-abrahams-a-south-african-who-wrote-of-apartheid-and-identity-dies-at-97.html
+https://www.nytimes.com/2017/01/21/arts/music/maggie-roche-dead-singer-songwriter.html
+https://www.nytimes.com/2017/01/22/world/americas/ronald-webster-anguilla-revolution-dies.html
+http://www.nytimes.com/section/arts/television
+https://www.nytimes.com/2017/01/22/arts/television/now-that-trump-is-president-how-will-tv-respond.html
+https://www.nytimes.com/2017/01/22/arts/television/netflix-one-day-at-a-time-rita-moreno-interview.html
+https://www.nytimes.com/2017/01/20/arts/television/trump-inauguration-mr-reality-tv-goes-to-washington.html
+http://www.nytimes.com/pages/health/index.html
+https://www.nytimes.com/2017/01/18/health/partnership-epidemic-preparedness.html
+https://www.nytimes.com/2017/01/18/us/politics/nominee-for-health-secretary-is-vague-on-replacing-affordable-care-act.html
+https://www.nytimes.com/2017/01/18/well/move/running-may-be-good-for-your-knees.html
+http://www.nytimes.com/section/travel
+https://www.nytimes.com/2017/01/17/travel/guadeloupe-caribbean-food-french.html
+https://www.nytimes.com/2017/01/18/travel/hiking-aokigahara-forest-japan-mount-fuji-lava.html
+http://www.nytimes.com/interactive/2017/01/19/travel/what-to-do-36-hours-in-galveston-texas.html
+http://www.nytimes.com/section/books
+https://www.nytimes.com/2017/01/22/books/the-evenings-a-dutch-classic-arrives-in-english-it-only-took-70-years.html
+https://www.nytimes.com/2017/01/17/books/review/jon-meacham-on-literature-of-our-discontent.html
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+http://www.nytimes.com/section/education
+https://www.nytimes.com/2017/01/19/business/dealbook/navient-loans-lawsuit.html
+https://www.nytimes.com/2017/01/18/us/politics/betsy-devos-education-secretary-confirmation-donald-trump.html
+https://www.nytimes.com/2017/01/18/us/lois-dickson-rice-dead-pell-grants.html
+http://www.nytimes.com/pages/dining/index.html
+https://www.nytimes.com/2017/01/20/dining/buckwheat-popover-video-recipe.html
+https://www.nytimes.com/2017/01/20/dining/chicken-rice-recipe.html
+https://www.nytimes.com/2017/01/19/dining/review-red-wine-corsica-terroir.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-tempting-of-the-media.html
+http://www.nytimes.com/pages/realestate/index.html
+https://www.nytimes.com/2017/01/20/realestate/the-history-hidden-in-the-walls.html
+https://www.nytimes.com/2017/01/20/realestate/landlords-seeking-eviction-call-bradley-silverbush.html
+https://www.nytimes.com/2017/01/20/realestate/the-beginning-of-a-buyers-market-in-manhattan.html
+http://www.nytimes.com/section/upshot
+https://www.nytimes.com/2017/01/21/upshot/what-does-the-order-against-the-health-law-actually-do.html
+https://www.nytimes.com/2017/01/17/upshot/republican-men-say-its-a-better-time-to-be-a-woman-than-a-man.html
+https://www.nytimes.com/2017/01/20/upshot/federal-policy-will-shift-not-all-states-will-shift-with-it.html
+http://www.nytimes.com/section/magazine
+https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html
+https://www.nytimes.com/2017/01/18/magazine/who-decides-who-counts-as-native-american.html
+http://www.nytimes.com/interactive/2017/01/19/magazine/parades-across-america-george-georgiou.html
+http://www.nytimes.com/pages/automobiles/index.html
+https://www.nytimes.com/2017/01/19/business/tesla-model-s-autopilot-fatal-crash.html
+https://www.nytimes.com/2017/01/19/automobiles/autoreviews/the-bmw-x4-m40i-is-fast-if-not-practical.html
+https://www.nytimes.com/2017/01/19/automobiles/wheels/a-whiff-of-a-new-car-smell-just-a-page-flip-away.html
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/slideshow/2017/01/20/t-magazine/fashion/rick-owens-louis-vuitton-dries-van-noten-mens-paris-fashion-week.html
+https://www.nytimes.com/2017/01/20/t-magazine/diptyque-facial-oil-arlo-skye-suitcase-khiry.html
+http://www.nytimes.com/slideshow/2017/01/20/t-magazine/art/naturalia-paul-kasmin-old-masters.html
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/interactive/2017/01/10/insider/events/will-shortz-meet-the-puzzle-master.html
+https://www.nytimes.com/2017/01/20/insider/putting-the-timess-first-email-address-to-bed.html
+https://www.nytimes.com/2017/01/20/insider/what-were-reading.html
+http://www.nytimes.com/pages/realestate/index.html
+https://www.nytimes.com/2017/01/20/realestate/georgette-mosbacher-puts-fifth-avenue-co-op-on-the-market.html
+https://www.nytimes.com/2017/01/20/realestate/georgette-mosbacher-puts-fifth-avenue-co-op-on-the-market.html
+http://www.nytimes.com/real-estate/find-a-home
+http://realestateads.nytimes.com/
+http://www.nytimes.com/gst/mostemailed.html
+http://www.nytimes.com/gst/mostpopular.html
+http://www.nytimes.com/trending/
+http://www.nytimes.com/recommendations
+http://www.nytimes.com/
+http://www.nytimes.com/
+http://www.nytimes.com/pages/world/index.html
+http://www.nytimes.com/pages/national/index.html
+http://www.nytimes.com/pages/politics/index.html
+http://www.nytimes.com/pages/nyregion/index.html
+http://www.nytimes.com/pages/business/index.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/section/science
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/pages/sports/index.html
+http://www.nytimes.com/pages/education/index.html
+http://www.nytimes.com/pages/obituaries/index.html
+http://www.nytimes.com/pages/todayspaper/index.html
+http://www.nytimes.com/pages/corrections/index.html
+http://www.nytimes.com/pages/opinion/index.html
+http://www.nytimes.com/pages/opinion/index.html#columnists
+http://www.nytimes.com/pages/opinion/index.html#editorials
+http://www.nytimes.com/pages/opinion/index.html#contributing
+http://www.nytimes.com/pages/opinion/index.html#op-ed
+http://www.nytimes.com/pages/opinion/index.html#opinionator
+http://www.nytimes.com/pages/opinion/index.html#letters
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+http://www.nytimes.com/pages/opinion/index.html#takingNote
+http://www.nytimes.com/roomfordebate
+http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+http://www.nytimes.com/video/opinion
+http://www.nytimes.com/pages/arts/index.html
+http://www.nytimes.com/pages/arts/design/index.html
+http://www.nytimes.com/pages/books/index.html
+http://www.nytimes.com/pages/arts/dance/index.html
+http://www.nytimes.com/pages/movies/index.html
+http://www.nytimes.com/pages/arts/music/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/pages/arts/television/index.html
+http://www.nytimes.com/pages/theater/index.html
+http://www.nytimes.com/video/arts
+http://www.nytimes.com/pages/automobiles/index.html
+http://www.nytimes.com/crosswords/
+http://www.nytimes.com/pages/dining/index.html
+http://www.nytimes.com/pages/education/index.html
+http://www.nytimes.com/pages/fashion/index.html
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/section/jobs
+http://www.nytimes.com/pages/magazine/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/section/travel
+http://www.nytimes.com/pages/fashion/weddings/index.html
+http://www.nytimes.com/ref/classifieds/
+http://www.nytimes.com/marketing/tools-and-services/
+http://www.nytimes.com/pages/topics/
+http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/interactive/blogs/directory.html
+http://www.nytimes.com/pages/multimedia/index.html
+http://lens.blogs.nytimes.com/
+http://www.nytimes.com/video
+https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage
+http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP
+http://www.nytimes.com/seeallnav
+http://www.nytimes.com/membercenter
+http://www.nytimes.com/hdleftnav
+http://www.nytimes.com/digitalleftnav
+http://www.nytimes.com/tpnav
+http://www.nytimes.com/crosswords/index.html
+http://www.nytimes.com/marketing/newsletters
+https://myaccount.nytimes.com/mem/tnt.html
+http://www.nytimes.com/giftleftnav
+http://www.nytimes.com/corporateleftnav
+http://www.nytimes.com/educationleftnav
+http://www.nytimes.com/services/mobile/index.html
+http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY
+http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html
+http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html
+http://www.nytco.com/careers
+http://nytmediakit.com/
+http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp
+http://www.nytimes.com/privacy
+http://www.nytimes.com/ref/membercenter/help/agree.html
+http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html
+http://spiderbites.nytimes.com
+http://www.nytimes.com/membercenter/sitehelp.html
+https://myaccount.nytimes.com/membercenter/feedback.html
+http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW
+http://mobile.nytimes.com/
+[tags]
+<html><html><html><html><head><title></title><meta/><link/><link/><link/><link/><meta/><meta/><meta/><link/><link/><link/><link/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><script></script><script></script><script></script></script><script></script><script><esi/></script></script><script></script><script></script><script></script><script></script></head><body><style></style><div><div><div><div><span><i></span><a></a></span></div></div></div></div><div><header><div></div><div></div><div><div><div><button><i></span></button><button><i></span></button><a></a><a></a></div><div><div></div><div><button></button><button></button><button></span></button><button><i></span></button></div></div></div></div><div><div><ul><li></li><li></a></li><li></a></li></ul></div><div></div><div></div><h2><svg><image></image></svg></a></h2><ul><li></li></ul></div><nav><h2></h2><ul><li><button><i></i><span></span></button></li><li><button><i></i><span></span></button></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><button></button></li></ul></nav><div><button></span></button><nav><h2></h2><form><div><div><label></label></div><div><input/><button></span></button><div><ol></ol></div><button></button></div></div></form></nav></div><div></div></header><div></div><nav><h2></h2></nav><nav><h2></h2></nav><div></div><div><main><div></div><div></div><div></div><div><div><script></script><style></style><script></script><style></style></div></div><div><div><section><h2></h2><div><div><div><div><div><h6><a></a></h6></div></div><div><article><h3></h3><h2></a></h2><p></time></p><p><ul><li></li><li></li></ul></p></article></div><div><article><h2></a></h2><p></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></a></h2></article></li></ul></div><div><article><h2></a></h2><p></p><p></p></article></div><div><article><h2></a></h2><p></p><p></p></article></div><div><h3></h3><ul><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article></a></h2></article></li></ul></div><div><article><h2></a></h2><p></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></time></h2></article></li></ul></div><hr><h3></h3><ul><li><article><h2></time></h2></article></li><li><article><h2></time></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article></a></h2></article></li></ul></div><hr><style></style><div><div><div><h1><a></a></h1><h2><a></span></a></h2></div></div></div><script></script></div></div></div><div><div><div><script></script><script></script><style></style><div><h2></a></h2><p></p><p></p></article></div></div><hr/><div><div><article><figure><div><a/></a></div></figure><h2></a></h2><p></time></p><p></p></article></div><div><style></style><div><div><a><span></span></span><span></span></a></div></div><script><span><span><span></span><span></span></script></div><div><div><h6><a></a></h6></div><div><article><h2></a></h2><div><a/></a></div><p></p><p></p></article><article><h3></h3><h2></a></h2><div><a/></a></div><p></p><p></p><p><a></span></a></p></article></div></div><hr><div><h6></h6></div></div></div></div></div></section></div></div></main></div></div></body></html><article><h2></a></h2><div><a/></a></div><p></time></p><p></p></article><div><ul><li><div></div></li><li><article><h2></span></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></span></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li></ul></div><div><style></style><div><div><a><div><div><div><div><svg><circle></circle></svg><svg><polyline></polyline></svg></div><div><span></span></div></div><h2></h2><div><svg><g><g><g><circle></circle><path></path><g><ellipse></ellipse><ellipse></ellipse></g><path></path></g></g></g></svg></div></div></div></a><figcaption><p></p></figcaption></figure></div><div></div></div><div><h6><a></a></h6></div><figure><a><div><div><div><div><svg><circle></circle></svg><svg><polyline></polyline></svg></div><div><span></span></div></div><h2></h2><div><svg><g><g><g><circle></circle><path></path><g><ellipse></ellipse><ellipse></ellipse></g><path></path></g></g></g></svg></div></div></div></a><figcaption><p></p></figcaption><a><div><p></p><p></p></div></a></figure></div></div></div></div><hr><article><h2></a></h2><div><a/></a></div><p></time></p><p></p></article></div><hr><div><h6><a></a></h6></div><style></style><div><div><h2></a></h2><p></time></p><div><a/></a></div><p></p></article></div></div><div><h2></a></h2><p></time></p><div><a/></a></div><p></p></article></div></div></div></div><hr><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></a></h2></article></li></ul></div><hr><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><hr><article><h3></h3><h2></a></h2><div><a/></a></div><p></time></p><p></p></article></div><div><style></style><div><div><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div></div></div><hr><article><figure><div><a/></a></div></figure><h2></a></h2><p></p></article><div><div></div></div><script></script></div><div><hr/><div><h2></h2><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div></div></div><div><div></div><div></div><section><div><div><section><h2></a></h2></section></div></div><div><div><div><div><article><h3></h3><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><div><ul><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li></ul></div></div></div><div><div><div><article><figure><div><a/></a></div></figure><h3></h3><h2></a></h2><p></p><p><a></span></a></p></article></div><div><ul><li><article><h2></a></h2></article></li></ul></div></div></div></div><div><div><style></style><style></style></div></div></section><section><h2></h2><div><div><ul><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul><div><a><svg><image></image></svg></a></div></div></div><div><div><div><div><div><article><h3><a></a></h3><h2><a></a></h2></article></div></div><div><div><article><h3><a></a></h3><h2><a></a></h2><div><a><img/></a></div></article></div></div></div></div></div><div><div><div><div><div><article><h3><a></a></h3><h2><a></a></h2><div><a><img/></a></div></article></div></div><div><div><article><h3><a></a></h3></article></div></div></div></div></div></section><div></div><div><div><style></style><div><div><h2></h2><div></a></div></div><div><ol></ol><div><p></p><p><strong></strong></p></div><ol></ol></div><div><a></a><p><span></span><span><a></a></span></p></div></div><script><li></li><article></div></div></article><figure></figure><li></li><article></div></div></article><figure></figure></script><link/><style></style><div><div><header><h4></h4></header><div></div><footer></footer></div></div><script></script></div><div><style></style><div><h6><a></a></h6></div></div><div><article><figure><div><a/></a></div></figure><h2></a></h2><p></p></article></div><div><hr/><p><a></a></p></div></div></div></div><div></div><div></div></div><section><h2></h2><ul><li></li><li></li><li></li><li></li><li></li></ul></section><div></div><div><div><div><div></span></div></div><section><header><h2><span></span></a></h2><a></a></header><div><article><figure><span></span><img/><div></div><div></div><div></div><figcaption></figcaption></figure></article></div><div><div><ul></ul></div></div></section></div></div><section><div><h2></h2><div><div><button><div><span></span><div></div></div></button><button><div><span></span><div></div></div></button></div><div><ol><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><h2></h2><p></p></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><h2></h2><p></p></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li></ol></div></div></div></section><div></div><div><div><hr/><section><div><h2></h2><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div></div></section></div><div><section><div><div><div><div><h2><a></a></h2><article><h3></h3><h2></a></h2><p></p><div><a/></a></div><p></p></article></div><div><ul><li><article></a></h2></article></li><li><article></a></h2></article></li></ul></div></div></div><div><div><div><div><div></div><div></div></div></div><div></div></div></div></div></section><section><div><ul><li></a></li></ul></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></span></div></div></section><div></div><div></div></div></div><div></div><div></div><div></div><div></div><section><header><p></a></p><h2><span></span><a><span></span></a></h2><script></script></header><nav><h2></h2><div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li></li><li><i></i><a></a></li><li><i></i><a></a></li><li><i></i><a></a></li><li><i></i><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li></ul></div></div></nav></section><footer><nav><h2></h2><ul><li><a><span/></span></a></li><li></a></li><li></a></li><li></a></li><li></a></li><li><a></a></li><li><a></a></li><li></a></li></ul></nav><nav><h2></h2><ul><li><a></a></li><li><a></a></li><li><a></a></li><li></a></li></ul></nav><div><a></a></div><div></div></footer><script></script><esi/><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+[sequence]
+The New York Times
+Breaking News
+World News
+Internet Explorer
+LEARN MORE
+Subscribe Now
+Log In
+Quick Site Sections Navigation
+T Magazine
+Real Estate
+Site Search Navigation
+Search NYTimes
+Site Navigation
+Site Mobile Navigation
+Small Video Promo Heds
+Fix MM
+Hiding Hacks
+Centered Feature Photo Spot Treatment
+Bullet Treatments
+Breaking News
+Developing Headers
+HPHEADER STYLING
+Newsletter Sign-Up Modules
+Show All
+Top News
+News Analysis
+A Rocky First Weekend
+Trump Troubles Some Top Aides
+By PETER BAKER
+GLENN THRUSH
+MAGGIE HABERMAN
+PM ET
+President Trump
+White House Pushes
+Alternative Facts
+Here Are
+By NICHOLAS FANDOS
+News Media Expresses Alarm
+Suit Will Seek End
+Foreign Payments
+Firms
+By ERIC LIPTON
+ADAM LIPTAK
+Emoluments Clause
+Repeal Care Act Revives Talk
+High-Risk Pools
+By REED ABELSON
+MORE IN POLITICS
+Health Plan Converts Medicaid
+Block Grants
+Aide Says
+What Does
+Executive Order Against
+Health Act Do
+Senators Hope
+Speed Up Confirmations
+Presidency Already Altering Israeli-Palestinian Politics
+By IAN FISHER
+American Embassy
+Trump Speaks With Netanyahu
+Thaw U
+PM ET
+More News
+United Airlines Flights Delayed
+Computer Problem
+PM ET
+Samsung Blames Battery
+Design Flaws
+PM ET
+European Art Trafficking Crackdown
+Gambia Is Back Again
+Its New Leader Is Still
+TV Recaps
+The Affair
+The New York Times
+Bomb Had Been Dropped
+By RICHARD FAUSSET
+JONAH ENGEL BROMWICH
+Your Monday Briefing
+By PATRICK BOEHLER
+AM ET
+Smarter Living
+Someday You May Be Eating
+By KENNETH CHANG
+The New Health Care
+How Pet Care Helps Explain Human Health Care Spending
+By AUSTIN FRAKT
+S MARCH
+March Was
+Ringing Success
+Now What
+By SUSAN CHIRA
+JONATHAN MARTIN
+PM ET
+Washington March Had
+Times More People Than Inauguration
+Rust Belt Town
+Some Cheers From Afar
+Pictures From Women
+Every Continent
+Clear Message
+Change Will Come
+When Your Loved Ones Voted
+Other Way
+By MARGARET CHEATHAM WILLIAMS
+ALEXANDRA GARCIA
+TAIGE JENSEN
+The Daily
+Women March
+Ruth Fremson
+The New York Times
+The Daily
+In U
+Cervical Cancer Is Deadlier Than Long Thought
+By JAN HOFFMAN
+AM ET
+Patriots Demolish Steelers
+By BEN SHPIGEL
+AM ET
+Tom Brady
+New England
+Super Bowl
+Falcons Thrash Packers
+By BILL PENNINGTON
+PM ET
+Matt Ryan
+Green Bay
+Subtle Textbook Changes Raise Alarm
+By ELLEN BARRY
+JULFIKAR ALI MANIK
+Bangladesh Protests Shake Global Workshop
+Brenda Barnes
+Pepsi C
+Who Quit
+By LANDON THOMAS Jr
+On Soccer
+Errant Calls Drag
+Referee Into
+By RORY SMITH
+AM ET
+Championship League
+Mike Dean
+New York Now Lags
+By WILLIAM NEUMAN
+California Today
+Sign Up
+Get California Today
+Sign Up
+Get California Today
+Classic Novel That Predicted Trump
+Sinclair Lewis
+It Can
+Happen Here
+Retired Circus Animals Prepare
+Second Act
+Jenny Vidbel
+New York
+Is This Los Angeles
+Million Man
+Michael Govan
+Los Angeles County Museum
+Sunday Review
+News Analysis
+Bailey Make Room
+New Ringmaster
+By SAM ROBERTS
+Like Nero
+Donald Trump
+The Republican Health Care Con
+The President Who Buried Humility
+The Tempting
+May Be
+Best Year Ever
+David Leonhardt
+Great Working-Class Colleges
+User Subscriptions
+On Guard
+Reporters Gear Up
+Cover President Trump
+Four Years From Now
+Be Better Off
+Worse Off
+Times Insider
+On Guard
+Reporters Gear Up
+Cover President Trump
+The Crossword
+Play Today
+The Crossword
+Play Today
+Your Reading List
+Reading List
+Reading List
+Learn More
+Send Feedback
+The Sweeping Changes
+Obama Era
+One Man
+Way We Die
+Reading List
+Remove Saved Item
+HIDE WATCHING HEADER
+The Neediest Cases
+Her Daughters
+Latisha Hopewell
+Neediest Cases
+The New York Times Neediest Cases Fund
+New York
+From Our Advertisers
+Video Player
+Inside Nytimes
+Fish Feed
+Social Themes Bite
+The Conversation Placebo
+Communication
+The Matriarch Behind Beyonc
+Settlement Makes Way
+Star Trek
+Fan Film
+Sunday Review
+How Not
+Be Afraid
+Pioneering Movie Stuntwoman Dies
+Book Review
+How Did Rumi Become
+Best-Selling Poet
+Inauguration With Millennials
+Ars Longa
+Except When MoMA Throws It Out
+A Sundance Hit May Not Make You Rich Anymore
+Sunday Review
+Does Breast Milk Have
+Sex Bias
+Pro Basketball
+Life Is Good
+Golden State Warriors
+Trump Presidency Is Already Altering Israeli-Palestinian Politics
+To Secular Bangladeshis
+Textbook Changes Are
+Cubans Newly Blocked
+Border Place Hopes
+Business Day
+Samsung Blames Battery
+Design Flaws
+Galaxy Note
+Snapchat Discover Takes
+Hard Line
+Explicit Images
+Bangladesh Shake
+Global Workshop
+Richard Conniff
+In Beijing
+Foul Air
+The Republican Health Care Con
+Frank Bruni
+The President Who Buried Humility
+At Least
+Tornadoes Sweep Southeast
+Health Plan Would Convert Medicaid
+Block Grants
+Aide Says
+After Success
+Question Remains
+Self-Driving System Cleared
+Deadly Crash
+Big Ten Universities Entering
+New Realm
+Clearing Out
+App Stores
+Government Censorship Made Easier
+Now That Trump Is President
+How Will TV Respond
+Two Museum Exhibits
+From Jingles
+Pop Hits
+Is Music
+Some Ears
+News Analysis
+Rocky First Weekend
+Trump Troubles Even His Top Aides
+Trump Speaks With Netanyahu
+Thaw U
+Trump Won
+Release His Tax Returns
+Top Aide Says
+Melania Trump
+America First
+Inaugural Wardrobe
+Catching Up With
+Matriarch Behind Beyonc
+These Young Adult Novels Come With Back Stories
+The Authors
+Art-House Fare Hopes
+Oscar-Nod Push
+Rules North America
+Sundance Hit May Not Make You Rich Anymore
+Night Shyamalan
+Has Personality
+New York
+Leading Foe
+New York Lags Under
+Retired Big Apple Circus Animals Prepare
+Their Second Act
+A Club Where Lions Dance
+Traditions Take Root
+Tom Brady
+Patriots Overwhelm Steelers
+Super Bowl LI
+Falcons Thrash Packers
+Reach Second Super Bowl
+To Supplement Pay
+Players Put Their Safety
+BroadwayCon Faces Dispute With Actors
+Equity Association
+Distraught Yet Upbeat
+Broadway Stars Give
+August Wilson
+Magnifies Marginalized Souls
+Solve Namibia
+Fairy Circle Mystery
+A Conversation With
+What Did Neanderthals Leave
+Modern Humans
+Some Surprises
+Tasmanian Tigers
+Brains Yield Clues Long After Extinction
+Peter Abrahams
+South African Who Wrote
+Maggie Roche
+Who Harmonized With Her Singing Sisters
+Ronald Webster
+Leader Who Plotted Anguilla Revolution
+Now That Trump Is President
+How Will TV Respond
+Rita Moreno Aims
+Right Accent
+One Day
+Reality TV Goes
+Drug Makers Offer
+Control Global Epidemics
+Health Secretary Is Vague
+Replacing Affordable Care Act
+Phys Ed
+Running May Be Good
+Your Knees
+A Return
+Tropical Life
+Forest Born Out
+Mount Fuji
+The Evenings
+Dutch Classic
+It Only Took
+The Long View
+Been Here Before
+Jon Meacham
+Our Discontent
+Classic Novel That Predicted Trump
+In Navient Lawsuits
+Unsettling Echoes
+Past Lending Crisis
+Nominee Betsy DeVos
+Education Basics Is Open
+Lois Dickson Rice
+Trailblazing Executive Behind Pell Grants
+A Good Appetite
+A Popover With
+Deep Secret
+City Kitchen
+Chicken With
+French Accent
+The Times
+Corsican Reds
+Case Study
+Wine Terroir
+Sunday Review
+Frank Bruni
+The President Who Buried Humility
+The Republican Health Care Con
+Ross Douthat
+The Tempting
+Real Estate
+The History Hidden
+Landlords Seeking Eviction Call Bradley Silverbush
+The Beginning
+The Upshot
+Public Health
+What Does Trump
+Executive Order Against Obamacare Actually Do
+Gender Inequality
+Republican Men Say It
+Better Time
+Woman Than
+Economic View
+Federal Policy Will Shift
+Not All States Will Shift With It
+To Obama With Love
+Who Decides Who Counts
+Native American
+Photo Essay
+Where Americans Still Stand Together
+Self-Driving System Cleared
+Deadly Crash
+The BMW X4 M40i Is Fast
+Not Practical
+A Whiff
+New-Car Smell
+Page Flip Away
+T Magazine
+Fashion Shows
+Rick Owens
+Louis Vuitton
+Dries Van Noten
+Four Things T Editors Are Really Into Right Now
+Beautiful Images
+Artists New
+Very Old
+Times Insider
+Will Shortz
+Puzzle Master
+Putting The Times
+First Email Address
+What We
+Real Estate
+Georgette Mosbacher Puts Fifth Avenue Co-op
+Market
+By VIVIAN MARINO
+Rent
+Sell Your Home
+Most EmailedMost ViewedTrendingRecommended
+Home Page
+Site Index
+The New York Times
+Site Index Navigation
+Op-Ed Columnists
+Contributing Writers
+Op-Ed Contributors
+Sunday Review
+Taking Note
+Public Editor
+Events Guide
+Events Guide
+Real Estate
+T Magazine
+Times Topics
+Public Editor
+Events Guide
+NYT Store
+Times Journeys
+Manage My Account
+Home Delivery
+Digital Subscriptions
+Times Insider
+Email Newsletters
+Gift Subscriptions
+Corporate Subscriptions
+Education Rate
+Mobile Applications
+Replica Edition
+Site Information Navigation
+The New York Times Company
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms
+Service
+Terms
+Site Information Navigation
+Site Map
+Help
+Site Feedback
+Subscriptions
+View Mobile Version
+[links]
+http://www.nytimes.com/content/help/site/ie9-support.html
+#top-news
+#site-index-navigation
+http://cn.nytimes.com
+http://www.nytimes.com/es/
+http://www.nytimes.com/
+http://www.nytimes.com/pages/todayspaper/index.html
+http://www.nytimes.com/video
+http://www.nytimes.com/pages/world/index.html
+http://www.nytimes.com/pages/national/index.html
+http://www.nytimes.com/pages/politics/index.html
+http://www.nytimes.com/pages/nyregion/index.html
+http://www.nytimes.com/pages/business/index.html
+http://www.nytimes.com/pages/business/international/index.html
+http://www.nytimes.com/pages/opinion/index.html
+http://www.nytimes.com/pages/opinion/international/index.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/section/science
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/pages/sports/index.html
+http://www.nytimes.com/pages/sports/international/index.html
+http://www.nytimes.com/pages/arts/index.html
+http://www.nytimes.com/pages/arts/international/index.html
+http://www.nytimes.com/pages/fashion/index.html
+http://www.nytimes.com/pages/style/international/index.html
+http://www.nytimes.com/pages/dining/index.html
+http://www.nytimes.com/pages/dining/international/index.html
+http://www.nytimes.com/section/travel
+http://www.nytimes.com/pages/magazine/index.html
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/pages/politics/index.html?src=hpHeader
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html
+https://www.nytimes.com/2017/01/22/us/politics/president-trump-inauguration-crowd-white-house.html
+https://www.nytimes.com/2017/01/22/business/media/sean-spicer-donald-trump-alternative-facts.html
+https://www.nytimes.com/2017/01/22/us/politics/trump-foreign-payments-constitution-lawsuit.html
+https://www.nytimes.com/2017/01/22/business/president-donald-trump-health-insurance-high-risk-pool.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
+https://www.nytimes.com/2017/01/21/upshot/what-does-the-order-against-the-health-law-actually-do.html
+https://www.nytimes.com/2017/01/22/us/politics/senate-republicans-cabinet-confirmations-president-trump.html
+https://www.nytimes.com/2017/01/22/arts/aziz-ansari-donald-trump-snl.html
+https://www.nytimes.com/2017/01/22/arts/aziz-ansari-monologue-transcript-snl.html
+https://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-benjamin-netanyahu-us-israel-relations.html
+https://www.nytimes.com/2017/01/22/us/united-airlines-delay-computer.html
+https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.html
+https://www.nytimes.com/2017/01/22/world/europe/75-arrested-in-european-crackdown-on-art-trafficking.html
+https://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow-yahya-jammeh.html
+https://www.nytimes.com/2017/01/22/arts/television/homeland-season-6-episode-2-carrie-is-back-to-her-old-self-bending-rules.html
+https://www.nytimes.com/2017/01/22/arts/television/the-affair-season-3-episode-9-recap.html
+https://www.nytimes.com/tips
+https://www.nytimes.com/tips
+http://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi.html
+https://www.nytimes.com/2017/01/23/briefing/europe-briefing.html
+https://www.nytimes.com/2017/01/23/briefing/europe-briefing.html
+http://www.nytimes.com/DesktopHome
+http://www.nytimes.com/spotlight/times-tips?contentCollection=smarter-living
+https://www.nytimes.com/2017/01/09/science/genetically-edited-foods-crispr.html
+https://www.nytimes.com/2017/01/09/science/genetically-edited-foods-crispr.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html
+https://www.nytimes.com/2017/01/09/upshot/how-caring-for-dogs-and-cats-explains-human-health-spending.html?hp&target=comments#commentsContainer
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+http://www.nytimes.com/interactive/2017/01/22/us/politics/womens-march-trump-crowd-estimates.html
+https://www.nytimes.com/2017/01/21/us/niles-michigan-trump-no-women-march.html
+http://www.nytimes.com/interactive/2017/01/21/world/womens-march-pictures.html
+https://www.nytimes.com/2017/01/21/nyregion/womens-march-donald-trump-manhattan.html
+http://www.nytimes.com/interactive/2017/01/20/us/politics/womens-march-on-washington-voices.html
+https://www.nytimes.com/video/us/politics/100000004881605/family-conversations-on-trump.html
+http://www.nytimes.com/video/the-daily-360
+https://www.nytimes.com/video/us/politics/100000004867489/witness-the-womens-march-in-washington.html
+/video/the-daily-360
+https://www.nytimes.com/2017/01/23/health/cervical-cancer-united-states-death-toll.html
+https://www.nytimes.com/2017/01/23/health/cervical-cancer-united-states-death-toll.html
+https://www.nytimes.com/section/sports/football
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+https://www.nytimes.com/2017/01/20/business/brenda-barnes-dead.html
+https://www.nytimes.com/2017/01/20/business/brenda-barnes-dead.html
+https://www.nytimes.com/2017/01/23/sports/soccer/referee-english-premier-league-mike-dean-soccer-mistakes.html
+https://www.nytimes.com/2017/01/23/sports/soccer/referee-english-premier-league-mike-dean-soccer-mistakes.html
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+http://www.nytimes.com/newsletters/california-today
+http://www.nytimes.com/newsletters/california-today
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/18/arts/design/michael-govan-lacma-director.html
+https://www.nytimes.com/2017/01/18/arts/design/michael-govan-lacma-director.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/21/sunday-review/barnum-bailey-make-room-for-a-new-ringmaster.html
+https://www.nytimes.com/2017/01/21/sunday-review/barnum-bailey-make-room-for-a-new-ringmaster.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-tempting-of-the-media.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/why-2017-may-be-the-best-year-ever.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html
+https://www.nytimes.com/2017/01/18/opinion/sunday/americas-great-working-class-colleges.html?hp&target=comments#commentsContainer
+https://twitter.com/nytopinion
+http://www.nytimes.com/2017/01/20/insider/on-guard-reporters-gear-up-to-cover-president-trump.html
+http://www.nytimes.com/interactive/2017/01/20/insider/insider-newsletter-poll-4.html
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/2017/01/20/insider/on-guard-reporters-gear-up-to-cover-president-trump.html
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://www.nytimes.com/crosswords
+http://wordplay.blogs.nytimes.com
+/saved
+/saved
+http://www.nytimes.com/content/help/site/save-reading-list.html
+http://nyt.qualtrics.com/SE/?SID=SV_71WmGUzc5CUhhs1
+http://www.nytimes.com/column/neediest-cases
+https://www.nytimes.com/2017/01/22/nyregion/neediest-cases-fund-college-degree.html
+https://www.nytimes.com/2017/01/22/nyregion/neediest-cases-fund-college-degree.html
+https://www.gofundme.com/the-new-york-times-neediest-cases/donate
+http://www.nytimes.com/video
+http://www.nytimes.com/video?src=vidm
+http://www.nytimes.com/pages/world/europe/index.html
+https://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/19/opinion/sunday/the-conversation-placebo.html
+http://www.nytimes.com/section/fashion
+https://www.nytimes.com/2017/01/21/fashion/tina-knowles-lawson-beyonce-solange-matriarch.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/21/movies/star-trek-axanar-fan-film-paramount-cbs-settlement.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/20/opinion/sunday/how-not-to-be-afraid.html
+http://www.nytimes.com/pages/index.html
+https://www.nytimes.com/2017/01/20/movies/paula-dell-dead-hollywood-stuntwoman.html
+http://www.nytimes.com/section/books/review
+https://www.nytimes.com/2017/01/20/books/review/rumi-brad-gooch.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/20/opinion/sunday/at-the-inauguration-with-millennials-for-trump.html
+http://www.nytimes.com/section/arts/design
+https://www.nytimes.com/2017/01/20/arts/ars-longa-except-when-moma-throws-it-out.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/20/movies/having-a-sundance-hit-may-not-make-you-rich-anymore.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/21/opinion/sunday/does-breast-milk-have-a-sex-bias.html
+http://www.nytimes.com/pages/sports/basketball/index.html
+https://www.nytimes.com/2017/01/21/sports/basketball/golden-state-warriors-james-michael-mcadoo-nba.html
+http://www.nytimes.com/pages/world/index.html
+https://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html
+https://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html
+https://www.nytimes.com/2017/01/22/world/americas/cubans-us-border-policy-wet-foot-dry-foot-obama-trump.html
+http://www.nytimes.com/pages/business/index.html
+https://www.nytimes.com/2017/01/22/business/samsung-galaxy-note-7-battery-fires-report.html
+https://www.nytimes.com/2017/01/23/technology/snapchat-discover-takes-a-hard-line-on-misleading-and-explicit-images.html
+https://www.nytimes.com/2017/01/22/business/bangladesh-protest-apparel-clothing.html
+http://www.nytimes.com/pages/opinion/index.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/in-beijing-and-washington-a-breath-of-foul-air.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+http://www.nytimes.com/section/us
+https://www.nytimes.com/2017/01/22/us/tornadoes-southeast-georgia-mississippi-death.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-health-plan-medicaid.html
+https://www.nytimes.com/2017/01/22/us/after-success-of-womens-march-a-question-remains-whats-next.html
+http://www.nytimes.com/pages/technology/index.html
+https://www.nytimes.com/2017/01/19/business/tesla-model-s-autopilot-fatal-crash.html
+https://www.nytimes.com/2017/01/19/sports/big-ten-is-entering-a-new-realm-e-sports.html
+https://www.nytimes.com/2017/01/18/technology/clearing-out-the-app-stores-government-censorship-made-easier.html
+http://www.nytimes.com/pages/arts/index.html
+https://www.nytimes.com/2017/01/22/arts/television/now-that-trump-is-president-how-will-tv-respond.html
+https://www.nytimes.com/2017/01/22/arts/design/trump-obama-portrait-museum.html
+https://www.nytimes.com/2017/01/22/arts/music/jukedeck-artificial-intelligence-songwriting.html
+http://www.nytimes.com/pages/politics/index.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-benjamin-netanyahu-us-israel-relations.html
+https://www.nytimes.com/2017/01/22/us/politics/donald-trump-tax-returns.html
+http://www.nytimes.com/section/fashion
+https://www.nytimes.com/2017/01/21/fashion/melania-trump-inaugural-ballgown.html
+https://www.nytimes.com/2017/01/21/fashion/tina-knowles-lawson-beyonce-solange-matriarch.html
+https://www.nytimes.com/2017/01/21/fashion/transgender-teen-literature.html
+http://www.nytimes.com/section/movies
+https://www.nytimes.com/2017/01/22/movies/art-house-fare-hopes-for-an-oscar-nod-push-as-split-rules-north-america.html
+https://www.nytimes.com/2017/01/20/movies/having-a-sundance-hit-may-not-make-you-rich-anymore.html
+https://www.nytimes.com/2017/01/19/movies/split-review-m-night-shyamalan.html
+http://www.nytimes.com/section/nyregion
+https://www.nytimes.com/2017/01/22/nyregion/once-a-leading-foe-of-tobacco-new-york-lags-under-de-blasio.html
+https://www.nytimes.com/2017/01/22/nyregion/retired-big-apple-circus-animals-prepare-for-their-second-act.html
+https://www.nytimes.com/2017/01/22/nyregion/a-club-where-lions-dance-and-traditions-take-root.html
+http://www.nytimes.com/pages/sports/index.html
+https://www.nytimes.com/2017/01/22/sports/football/new-england-patriots-super-bowl-pittsburgh-steelers.html
+https://www.nytimes.com/2017/01/22/sports/football/atlanta-falcons-super-bowl-green-bay-packers.html
+https://www.nytimes.com/2017/01/23/sports/basketball/wnba-pay-overseas-safety-turkey-terrorism.html
+http://www.nytimes.com/pages/theater/index.html
+https://www.nytimes.com/2017/01/22/arts/broadwaycon-faces-dispute-with-actors-equity-association.html
+https://www.nytimes.com/2017/01/20/arts/donald-trump-broadway-nyc.html
+https://www.nytimes.com/2017/01/19/theater/jitney-review-august-wilson.html
+http://www.nytimes.com/section/science
+https://www.nytimes.com/2017/01/19/science/fishing-for-clues-to-solve-namibias-fairy-circle-mystery.html
+https://www.nytimes.com/2017/01/20/science/john-anthony-capra-neanderthals-dna-humans.html
+https://www.nytimes.com/2017/01/20/science/tasmanian-tigers-brains.html
+http://www.nytimes.com/section/obituaries
+https://www.nytimes.com/2017/01/22/books/peter-abrahams-a-south-african-who-wrote-of-apartheid-and-identity-dies-at-97.html
+https://www.nytimes.com/2017/01/21/arts/music/maggie-roche-dead-singer-songwriter.html
+https://www.nytimes.com/2017/01/22/world/americas/ronald-webster-anguilla-revolution-dies.html
+http://www.nytimes.com/section/arts/television
+https://www.nytimes.com/2017/01/22/arts/television/now-that-trump-is-president-how-will-tv-respond.html
+https://www.nytimes.com/2017/01/22/arts/television/netflix-one-day-at-a-time-rita-moreno-interview.html
+https://www.nytimes.com/2017/01/20/arts/television/trump-inauguration-mr-reality-tv-goes-to-washington.html
+http://www.nytimes.com/pages/health/index.html
+https://www.nytimes.com/2017/01/18/health/partnership-epidemic-preparedness.html
+https://www.nytimes.com/2017/01/18/us/politics/nominee-for-health-secretary-is-vague-on-replacing-affordable-care-act.html
+https://www.nytimes.com/2017/01/18/well/move/running-may-be-good-for-your-knees.html
+http://www.nytimes.com/section/travel
+https://www.nytimes.com/2017/01/17/travel/guadeloupe-caribbean-food-french.html
+https://www.nytimes.com/2017/01/18/travel/hiking-aokigahara-forest-japan-mount-fuji-lava.html
+http://www.nytimes.com/interactive/2017/01/19/travel/what-to-do-36-hours-in-galveston-texas.html
+http://www.nytimes.com/section/books
+https://www.nytimes.com/2017/01/22/books/the-evenings-a-dutch-classic-arrives-in-english-it-only-took-70-years.html
+https://www.nytimes.com/2017/01/17/books/review/jon-meacham-on-literature-of-our-discontent.html
+https://www.nytimes.com/2017/01/17/books/review/classic-novel-that-predicted-trump-sinclar-lewis-it-cant-happen-here.html
+http://www.nytimes.com/section/education
+https://www.nytimes.com/2017/01/19/business/dealbook/navient-loans-lawsuit.html
+https://www.nytimes.com/2017/01/18/us/politics/betsy-devos-education-secretary-confirmation-donald-trump.html
+https://www.nytimes.com/2017/01/18/us/lois-dickson-rice-dead-pell-grants.html
+http://www.nytimes.com/pages/dining/index.html
+https://www.nytimes.com/2017/01/20/dining/buckwheat-popover-video-recipe.html
+https://www.nytimes.com/2017/01/20/dining/chicken-rice-recipe.html
+https://www.nytimes.com/2017/01/19/dining/review-red-wine-corsica-terroir.html
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-president-who-buried-humility.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-republican-health-care-con.html
+https://www.nytimes.com/2017/01/21/opinion/sunday/the-tempting-of-the-media.html
+http://www.nytimes.com/pages/realestate/index.html
+https://www.nytimes.com/2017/01/20/realestate/the-history-hidden-in-the-walls.html
+https://www.nytimes.com/2017/01/20/realestate/landlords-seeking-eviction-call-bradley-silverbush.html
+https://www.nytimes.com/2017/01/20/realestate/the-beginning-of-a-buyers-market-in-manhattan.html
+http://www.nytimes.com/section/upshot
+https://www.nytimes.com/2017/01/21/upshot/what-does-the-order-against-the-health-law-actually-do.html
+https://www.nytimes.com/2017/01/17/upshot/republican-men-say-its-a-better-time-to-be-a-woman-than-a-man.html
+https://www.nytimes.com/2017/01/20/upshot/federal-policy-will-shift-not-all-states-will-shift-with-it.html
+http://www.nytimes.com/section/magazine
+https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html
+https://www.nytimes.com/2017/01/18/magazine/who-decides-who-counts-as-native-american.html
+http://www.nytimes.com/interactive/2017/01/19/magazine/parades-across-america-george-georgiou.html
+http://www.nytimes.com/pages/automobiles/index.html
+https://www.nytimes.com/2017/01/19/business/tesla-model-s-autopilot-fatal-crash.html
+https://www.nytimes.com/2017/01/19/automobiles/autoreviews/the-bmw-x4-m40i-is-fast-if-not-practical.html
+https://www.nytimes.com/2017/01/19/automobiles/wheels/a-whiff-of-a-new-car-smell-just-a-page-flip-away.html
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/slideshow/2017/01/20/t-magazine/fashion/rick-owens-louis-vuitton-dries-van-noten-mens-paris-fashion-week.html
+https://www.nytimes.com/2017/01/20/t-magazine/diptyque-facial-oil-arlo-skye-suitcase-khiry.html
+http://www.nytimes.com/slideshow/2017/01/20/t-magazine/art/naturalia-paul-kasmin-old-masters.html
+http://www.nytimes.com/section/insider
+http://www.nytimes.com/interactive/2017/01/10/insider/events/will-shortz-meet-the-puzzle-master.html
+https://www.nytimes.com/2017/01/20/insider/putting-the-timess-first-email-address-to-bed.html
+https://www.nytimes.com/2017/01/20/insider/what-were-reading.html
+http://www.nytimes.com/pages/realestate/index.html
+https://www.nytimes.com/2017/01/20/realestate/georgette-mosbacher-puts-fifth-avenue-co-op-on-the-market.html
+https://www.nytimes.com/2017/01/20/realestate/georgette-mosbacher-puts-fifth-avenue-co-op-on-the-market.html
+http://www.nytimes.com/real-estate/find-a-home
+http://realestateads.nytimes.com/
+http://www.nytimes.com/gst/mostemailed.html
+http://www.nytimes.com/gst/mostpopular.html
+http://www.nytimes.com/trending/
+http://www.nytimes.com/recommendations
+http://www.nytimes.com/
+http://www.nytimes.com/
+http://www.nytimes.com/pages/world/index.html
+http://www.nytimes.com/pages/national/index.html
+http://www.nytimes.com/pages/politics/index.html
+http://www.nytimes.com/pages/nyregion/index.html
+http://www.nytimes.com/pages/business/index.html
+http://www.nytimes.com/pages/technology/index.html
+http://www.nytimes.com/section/science
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/pages/sports/index.html
+http://www.nytimes.com/pages/education/index.html
+http://www.nytimes.com/pages/obituaries/index.html
+http://www.nytimes.com/pages/todayspaper/index.html
+http://www.nytimes.com/pages/corrections/index.html
+http://www.nytimes.com/pages/opinion/index.html
+http://www.nytimes.com/pages/opinion/index.html#columnists
+http://www.nytimes.com/pages/opinion/index.html#editorials
+http://www.nytimes.com/pages/opinion/index.html#contributing
+http://www.nytimes.com/pages/opinion/index.html#op-ed
+http://www.nytimes.com/pages/opinion/index.html#opinionator
+http://www.nytimes.com/pages/opinion/index.html#letters
+http://www.nytimes.com/pages/opinion/index.html#sundayreview
+http://www.nytimes.com/pages/opinion/index.html#takingNote
+http://www.nytimes.com/roomfordebate
+http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+http://www.nytimes.com/video/opinion
+http://www.nytimes.com/pages/arts/index.html
+http://www.nytimes.com/pages/arts/design/index.html
+http://www.nytimes.com/pages/books/index.html
+http://www.nytimes.com/pages/arts/dance/index.html
+http://www.nytimes.com/pages/movies/index.html
+http://www.nytimes.com/pages/arts/music/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/pages/arts/television/index.html
+http://www.nytimes.com/pages/theater/index.html
+http://www.nytimes.com/video/arts
+http://www.nytimes.com/pages/automobiles/index.html
+http://www.nytimes.com/crosswords/
+http://www.nytimes.com/pages/dining/index.html
+http://www.nytimes.com/pages/education/index.html
+http://www.nytimes.com/pages/fashion/index.html
+http://www.nytimes.com/pages/health/index.html
+http://www.nytimes.com/section/jobs
+http://www.nytimes.com/pages/magazine/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/section/realestate
+http://www.nytimes.com/section/t-magazine
+http://www.nytimes.com/section/travel
+http://www.nytimes.com/pages/fashion/weddings/index.html
+http://www.nytimes.com/ref/classifieds/
+http://www.nytimes.com/marketing/tools-and-services/
+http://www.nytimes.com/pages/topics/
+http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+http://www.nytimes.com/events/
+http://www.nytimes.com/interactive/blogs/directory.html
+http://www.nytimes.com/pages/multimedia/index.html
+http://lens.blogs.nytimes.com/
+http://www.nytimes.com/video
+https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage
+http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP
+http://www.nytimes.com/seeallnav
+http://www.nytimes.com/membercenter
+http://www.nytimes.com/hdleftnav
+http://www.nytimes.com/digitalleftnav
+http://www.nytimes.com/tpnav
+http://www.nytimes.com/crosswords/index.html
+http://www.nytimes.com/marketing/newsletters
+https://myaccount.nytimes.com/mem/tnt.html
+http://www.nytimes.com/giftleftnav
+http://www.nytimes.com/corporateleftnav
+http://www.nytimes.com/educationleftnav
+http://www.nytimes.com/services/mobile/index.html
+http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY
+http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html
+http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html
+http://www.nytco.com/careers
+http://nytmediakit.com/
+http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp
+http://www.nytimes.com/privacy
+http://www.nytimes.com/ref/membercenter/help/agree.html
+http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html
+http://spiderbites.nytimes.com
+http://www.nytimes.com/membercenter/sitehelp.html
+https://myaccount.nytimes.com/membercenter/feedback.html
+http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW
+http://mobile.nytimes.com/
+[tags]
+<html><html><html><html><head><title></title><meta/><link/><link/><link/><link/><meta/><meta/><meta/><link/><link/><link/><link/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><script></script><script></script><script></script></script><script></script><script><esi/></script></script><script></script><script></script><script></script><script></script></head><body><style></style><div><div><div><div><span><i></span><a></a></span></div></div></div></div><div><header><div></div><div></div><div><div><div><button><i></span></button><button><i></span></button><a></a><a></a></div><div><div></div><div><button></button><button></button><button></span></button><button><i></span></button></div></div></div></div><div><div><ul><li></li><li></a></li><li></a></li></ul></div><div></div><div></div><h2><svg><image></image></svg></a></h2><ul><li></li></ul></div><nav><h2></h2><ul><li><button><i></i><span></span></button></li><li><button><i></i><span></span></button></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><button></button></li></ul></nav><div><button></span></button><nav><h2></h2><form><div><div><label></label></div><div><input/><button></span></button><div><ol></ol></div><button></button></div></div></form></nav></div><div></div></header><div></div><nav><h2></h2></nav><nav><h2></h2></nav><div></div><div><main><div></div><div></div><div></div><div><div><script></script><style></style><script></script><style></style></div></div><div><div><section><h2></h2><div><div><div><div><div><h6><a></a></h6></div></div><div><article><h3></h3><h2></a></h2><p></time></p><p><ul><li></li><li></li></ul></p></article></div><div><article><h2></a></h2><p></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></a></h2></article></li></ul></div><div><article><h2></a></h2><p></p><p></p></article></div><div><article><h2></a></h2><p></p><p></p></article></div><div><h3></h3><ul><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article></a></h2></article></li></ul></div><div><article><h2></a></h2><p></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></time></h2></article></li></ul></div><hr><h3></h3><ul><li><article><h2></time></h2></article></li><li><article><h2></time></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article></a></h2></article></li></ul></div><hr><style></style><div><div><div><h1><a></a></h1><h2><a></span></a></h2></div></div></div><script></script></div></div></div><div><div><div><script></script><script></script><style></style><div><h2></a></h2><p></p><p></p></article></div></div><hr/><div><div><article><figure><div><a/></a></div></figure><h2></a></h2><p></time></p><p></p></article></div><div><style></style><div><div><a><span></span></span><span></span></a></div></div><script><span><span><span></span><span></span></script></div><div><div><h6><a></a></h6></div><div><article><h2></a></h2><div><a/></a></div><p></p><p></p></article><article><h3></h3><h2></a></h2><div><a/></a></div><p></p><p></p><p><a></span></a></p></article></div></div><hr><div><h6></h6></div></div></div></div></div></section></div></div></main></div></div></body></html><article><h2></a></h2><div><a/></a></div><p></time></p><p></p></article><div><ul><li><div></div></li><li><article><h2></span></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></span></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li></ul></div><div><style></style><div><div><a><div><div><div><div><svg><circle></circle></svg><svg><polyline></polyline></svg></div><div><span></span></div></div><h2></h2><div><svg><g><g><g><circle></circle><path></path><g><ellipse></ellipse><ellipse></ellipse></g><path></path></g></g></g></svg></div></div></div></a><figcaption><p></p></figcaption></figure></div><div></div></div><div><h6><a></a></h6></div><figure><a><div><div><div><div><svg><circle></circle></svg><svg><polyline></polyline></svg></div><div><span></span></div></div><h2></h2><div><svg><g><g><g><circle></circle><path></path><g><ellipse></ellipse><ellipse></ellipse></g><path></path></g></g></g></svg></div></div></div></a><figcaption><p></p></figcaption><a><div><p></p><p></p></div></a></figure></div></div></div></div><hr><article><h2></a></h2><div><a/></a></div><p></time></p><p></p></article></div><hr><div><h6><a></a></h6></div><style></style><div><div><h2></a></h2><p></time></p><div><a/></a></div><p></p></article></div></div><div><h2></a></h2><p></time></p><div><a/></a></div><p></p></article></div></div></div></div><hr><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><div><ul><li><div></div></li><li><article><h2></a></h2></article></li></ul></div><hr><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><hr><article><h3></h3><h2></a></h2><div><a/></a></div><p></time></p><p></p></article></div><div><style></style><div><div><article><h2></a></h2><div><a/></a></div><p></p><p></p></article></div></div></div><hr><article><figure><div><a/></a></div></figure><h2></a></h2><p></p></article><div><div></div></div><script></script></div><div><hr/><div><h2></h2><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div><div><article><a><div><img/></div></a><h2><a></a></h2><p></p></article></div></div></div><div><div></div><div></div><section><div><div><section><h2></a></h2></section></div></div><div><div><div><div><article><h3></h3><h2></a></h2><div><a/></a></div><p></p><p></p></article></div><div><ul><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li><li><article><h2></a></h2></article></li></ul></div></div></div><div><div><div><article><figure><div><a/></a></div></figure><h3></h3><h2></a></h2><p></p><p><a></span></a></p></article></div><div><ul><li><article><h2></a></h2></article></li></ul></div></div></div></div><div><div><style></style><style></style></div></div></section><section><h2></h2><div><div><ul><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul><div><a><svg><image></image></svg></a></div></div></div><div><div><div><div><div><article><h3><a></a></h3><h2><a></a></h2></article></div></div><div><div><article><h3><a></a></h3><h2><a></a></h2><div><a><img/></a></div></article></div></div></div></div></div><div><div><div><div><div><article><h3><a></a></h3><h2><a></a></h2><div><a><img/></a></div></article></div></div><div><div><article><h3><a></a></h3></article></div></div></div></div></div></section><div></div><div><div><style></style><div><div><h2></h2><div></a></div></div><div><ol></ol><div><p></p><p><strong></strong></p></div><ol></ol></div><div><a></a><p><span></span><span><a></a></span></p></div></div><script><li></li><article></div></div></article><figure></figure><li></li><article></div></div></article><figure></figure></script><link/><style></style><div><div><header><h4></h4></header><div></div><footer></footer></div></div><script></script></div><div><style></style><div><h6><a></a></h6></div></div><div><article><figure><div><a/></a></div></figure><h2></a></h2><p></p></article></div><div><hr/><p><a></a></p></div></div></div></div><div></div><div></div></div><section><h2></h2><ul><li></li><li></li><li></li><li></li><li></li></ul></section><div></div><div><div><div><div></span></div></div><section><header><h2><span></span></a></h2><a></a></header><div><article><figure><span></span><img/><div></div><div></div><div></div><figcaption></figcaption></figure></article></div><div><div><ul></ul></div></div></section></div></div><section><div><h2></h2><div><div><button><div><span></span><div></div></div></button><button><div><span></span><div></div></div></button></div><div><ol><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><h2></h2><p></p></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><h2></h2><p></p></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li><li><section><h2></a></h2><article><a><div><img></img></div><h2></h2></a></article></section></li></ol></div></div></div></section><div></div><div><div><hr/><section><div><h2></h2><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div><div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div><div><section><h2><a></a></h2><ul><li><article><a><div><img/></div><h3></h3></a></article></li><li><article><h2><a></a></h2></article></li><li><article><h2><a></a></h2></article></li></ul></section></div></div></div></section></div><div><section><div><div><div><div><h2><a></a></h2><article><h3></h3><h2></a></h2><p></p><div><a/></a></div><p></p></article></div><div><ul><li><article></a></h2></article></li><li><article></a></h2></article></li></ul></div></div></div><div><div><div><div><div></div><div></div></div></div><div></div></div></div></div></section><section><div><ul><li></a></li></ul></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></span></div></div></section><div></div><div></div></div></div><div></div><div></div><div></div><div></div><section><header><p></a></p><h2><span></span><a><span></span></a></h2><script></script></header><nav><h2></h2><div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><h3></h3><ul><li></li><li><i></i><a></a></li><li><i></i><a></a></li><li><i></i><a></a></li><li><i></i><a></a></li></ul><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li><a></a></li><li><a></a></li></ul></div></div></nav></section><footer><nav><h2></h2><ul><li><a><span/></span></a></li><li></a></li><li></a></li><li></a></li><li></a></li><li><a></a></li><li><a></a></li><li></a></li></ul></nav><nav><h2></h2><ul><li><a></a></li><li><a></a></li><li><a></a></li><li></a></li></ul></nav><div><a></a></div><div></div></footer><script></script><esi/><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+[sequence]
+The New York Times
+Breaking News
+World News
+Internet Explorer
+LEARN MORE
+Subscribe Now
+Log In
+Quick Site Sections Navigation
+T Magazine
+Real Estate
+Site Search Navigation
+Search NYTimes
+Site Navigation
+Site Mobile Navigation
+Small Video Promo Heds
+Fix MM
+Hiding Hacks
+Centered Feature Photo Spot Treatment
+Bullet Treatments
+Breaking News
+Developing Headers
+HPHEADER STYLING
+Newsletter Sign-Up Modules
+Show All
+Top News
+News Analysis
+A Rocky First Weekend
+Trump Troubles Some Top Aides
+By PETER BAKER
+GLENN THRUSH
+MAGGIE HABERMAN
+PM ET
+President Trump
+White House Pushes
+Alternative Facts
+Here Are
+By NICHOLAS FANDOS
+News Media Expresses Alarm
+Suit Will Seek End
+Foreign Payments
+Firms
+By ERIC LIPTON
+ADAM LIPTAK
+Emoluments Clause
+Repeal Care Act Revives Talk
+High-Risk Pools
+By REED ABELSON
+MORE IN POLITICS
+Health Plan Converts Medicaid
+Block Grants
+Aide Says
+What Does
+Executive Order Against
+Health Act Do
+Senators Hope
+Speed Up Confirmations
+Presidency Already Altering Israeli-Palestinian Politics
+By IAN FISHER
+American Embassy
+Trump Speaks With Netanyahu
+Thaw U
+PM ET
+More News
+United Airlines Flights Delayed
+Computer Problem
+PM ET
+Samsung Blames Battery
+Design Flaws
+PM ET
+European Art Trafficking Crackdown
+Gambia Is Back Again
+Its New Leader Is Still
+TV Recaps
+The Affair
+The New York Times
+Bomb Had Been Dropped
+By RICHARD FAUSSET
+JONAH ENGEL BROMWICH
+Your Monday Briefing
+By PATRICK BOEHLER
+AM ET
+Smarter Living
+Someday You May Be Eating
+By KENNETH CHANG
+The New Health Care
+How Pet Care Helps Explain Human Health Care Spending
+By AUSTIN FRAKT
+S MARCH
+March Was
+Ringing Success
+Now What
+By SUSAN CHIRA
+JONATHAN MARTIN
+PM ET
+Washington March Had
+Times More People Than Inauguration
+Rust Belt Town
+Some Cheers From Afar
+Pictures From Women
+Every Continent
+Clear Message
+Change Will Come
+When Your Loved Ones Voted
+Other Way
+By MARGARET CHEATHAM WILLIAMS
+ALEXANDRA GARCIA
+TAIGE JENSEN
+The Daily
+Women March
+Ruth Fremson
+The New York Times
+The Daily
+In U
+Cervical Cancer Is Deadlier Than Long Thought
+By JAN HOFFMAN
+AM ET
+Patriots Demolish Steelers
+By BEN SHPIGEL
+AM ET
+Tom Brady
+New England
+Super Bowl
+Falcons Thrash Packers
+By BILL PENNINGTON
+PM ET
+Matt Ryan
+Green Bay
+Subtle Textbook Changes Raise Alarm
+By ELLEN BARRY
+JULFIKAR ALI MANIK
+Bangladesh Protests Shake Global Workshop
+Brenda Barnes
+Pepsi C
+Who Quit
+By LANDON THOMAS Jr
+On Soccer
+Errant Calls Drag
+Referee Into
+By RORY SMITH
+AM ET
+Championship League
+Mike Dean
+New York Now Lags
+By WILLIAM NEUMAN
+California Today
+Sign Up
+Get California Today
+Sign Up
+Get California Today
+Classic Novel That Predicted Trump
+Sinclair Lewis
+It Can
+Happen Here
+Retired Circus Animals Prepare
+Second Act
+Jenny Vidbel
+New York
+Is This Los Angeles
+Million Man
+Michael Govan
+Los Angeles County Museum
+Sunday Review
+News Analysis
+Bailey Make Room
+New Ringmaster
+By SAM ROBERTS
+Like Nero
+Donald Trump
+The Republican Health Care Con
+The President Who Buried Humility
+The Tempting
+May Be
+Best Year Ever
+David Leonhardt
+Great Working-Class Colleges
+User Subscriptions
+On Guard
+Reporters Gear Up
+Cover President Trump
+Four Years From Now
+Be Better Off
+Worse Off
+Times Insider
+On Guard
+Reporters Gear Up
+Cover President Trump
+The Crossword
+Play Today
+The Crossword
+Play Today
+Your Reading List
+Reading List
+Reading List
+Learn More
+Send Feedback
+The Sweeping Changes
+Obama Era
+One Man
+Way We Die
+Reading List
+Remove Saved Item
+HIDE WATCHING HEADER
+The Neediest Cases
+Her Daughters
+Latisha Hopewell
+Neediest Cases
+The New York Times Neediest Cases Fund
+New York
+From Our Advertisers
+Video Player
+Inside Nytimes
+Fish Feed
+Social Themes Bite
+The Conversation Placebo
+Communication
+The Matriarch Behind Beyonc
+Settlement Makes Way
+Star Trek
+Fan Film
+Sunday Review
+How Not
+Be Afraid
+Pioneering Movie Stuntwoman Dies
+Book Review
+How Did Rumi Become
+Best-Selling Poet
+Inauguration With Millennials
+Ars Longa
+Except When MoMA Throws It Out
+A Sundance Hit May Not Make You Rich Anymore
+Sunday Review
+Does Breast Milk Have
+Sex Bias
+Pro Basketball
+Life Is Good
+Golden State Warriors
+Trump Presidency Is Already Altering Israeli-Palestinian Politics
+To Secular Bangladeshis
+Textbook Changes Are
+Cubans Newly Blocked
+Border Place Hopes
+Business Day
+Samsung Blames Battery
+Design Flaws
+Galaxy Note
+Snapchat Discover Takes
+Hard Line
+Explicit Images
+Bangladesh Shake
+Global Workshop
+Richard Conniff
+In Beijing
+Foul Air
+The Republican Health Care Con
+Frank Bruni
+The President Who Buried Humility
+At Least
+Tornadoes Sweep Southeast
+Health Plan Would Convert Medicaid
+Block Grants
+Aide Says
+After Success
+Question Remains
+Self-Driving System Cleared
+Deadly Crash
+Big Ten Universities Entering
+New Realm
+Clearing Out
+App Stores
+Government Censorship Made Easier
+Now That Trump Is President
+How Will TV Respond
+Two Museum Exhibits
+From Jingles
+Pop Hits
+Is Music
+Some Ears
+News Analysis
+Rocky First Weekend
+Trump Troubles Even His Top Aides
+Trump Speaks With Netanyahu
+Thaw U
+Trump Won
+Release His Tax Returns
+Top Aide Says
+Melania Trump
+America First
+Inaugural Wardrobe
+Catching Up With
+Matriarch Behind Beyonc
+These Young Adult Novels Come With Back Stories
+The Authors
+Art-House Fare Hopes
+Oscar-Nod Push
+Rules North America
+Sundance Hit May Not Make You Rich Anymore
+Night Shyamalan
+Has Personality
+New York
+Leading Foe
+New York Lags Under
+Retired Big Apple Circus Animals Prepare
+Their Second Act
+A Club Where Lions Dance
+Traditions Take Root
+Tom Brady
+Patriots Overwhelm Steelers
+Super Bowl LI
+Falcons Thrash Packers
+Reach Second Super Bowl
+To Supplement Pay
+Players Put Their Safety
+BroadwayCon Faces Dispute With Actors
+Equity Association
+Distraught Yet Upbeat
+Broadway Stars Give
+August Wilson
+Magnifies Marginalized Souls
+Solve Namibia
+Fairy Circle Mystery
+A Conversation With
+What Did Neanderthals Leave
+Modern Humans
+Some Surprises
+Tasmanian Tigers
+Brains Yield Clues Long After Extinction
+Peter Abrahams
+South African Who Wrote
+Maggie Roche
+Who Harmonized With Her Singing Sisters
+Ronald Webster
+Leader Who Plotted Anguilla Revolution
+Now That Trump Is President
+How Will TV Respond
+Rita Moreno Aims
+Right Accent
+One Day
+Reality TV Goes
+Drug Makers Offer
+Control Global Epidemics
+Health Secretary Is Vague
+Replacing Affordable Care Act
+Phys Ed
+Running May Be Good
+Your Knees
+A Return
+Tropical Life
+Forest Born Out
+Mount Fuji
+The Evenings
+Dutch Classic
+It Only Took
+The Long View
+Been Here Before
+Jon Meacham
+Our Discontent
+Classic Novel That Predicted Trump
+In Navient Lawsuits
+Unsettling Echoes
+Past Lending Crisis
+Nominee Betsy DeVos
+Education Basics Is Open
+Lois Dickson Rice
+Trailblazing Executive Behind Pell Grants
+A Good Appetite
+A Popover With
+Deep Secret
+City Kitchen
+Chicken With
+French Accent
+The Times
+Corsican Reds
+Case Study
+Wine Terroir
+Sunday Review
+Frank Bruni
+The President Who Buried Humility
+The Republican Health Care Con
+Ross Douthat
+The Tempting
+Real Estate
+The History Hidden
+Landlords Seeking Eviction Call Bradley Silverbush
+The Beginning
+The Upshot
+Public Health
+What Does Trump
+Executive Order Against Obamacare Actually Do
+Gender Inequality
+Republican Men Say It
+Better Time
+Woman Than
+Economic View
+Federal Policy Will Shift
+Not All States Will Shift With It
+To Obama With Love
+Who Decides Who Counts
+Native American
+Photo Essay
+Where Americans Still Stand Together
+Self-Driving System Cleared
+Deadly Crash
+The BMW X4 M40i Is Fast
+Not Practical
+A Whiff
+New-Car Smell
+Page Flip Away
+T Magazine
+Fashion Shows
+Rick Owens
+Louis Vuitton
+Dries Van Noten
+Four Things T Editors Are Really Into Right Now
+Beautiful Images
+Artists New
+Very Old
+Times Insider
+Will Shortz
+Puzzle Master
+Putting The Times
+First Email Address
+What We
+Real Estate
+Georgette Mosbacher Puts Fifth Avenue Co-op
+Market
+By VIVIAN MARINO
+Rent
+Sell Your Home
+Most EmailedMost ViewedTrendingRecommended
+Home Page
+Site Index
+The New York Times
+Site Index Navigation
+Op-Ed Columnists
+Contributing Writers
+Op-Ed Contributors
+Sunday Review
+Taking Note
+Public Editor
+Events Guide
+Events Guide
+Real Estate
+T Magazine
+Times Topics
+Public Editor
+Events Guide
+NYT Store
+Times Journeys
+Manage My Account
+Home Delivery
+Digital Subscriptions
+Times Insider
+Email Newsletters
+Gift Subscriptions
+Corporate Subscriptions
+Education Rate
+Mobile Applications
+Replica Edition
+Site Information Navigation
+The New York Times Company
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms
+Service
+Terms
+Site Information Navigation
+Site Map
+Help
+Site Feedback
+Subscriptions
+View Mobile Version

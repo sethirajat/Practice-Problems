@@ -1,0 +1,9 @@
+Mercury, 1000
+Venus, 20000
+Earth, 300
+Mars,  100
+Jupitor, 1500
+Saturn, 1200
+Uranus, 50
+Neptune, 500
+Pluto, 3000
