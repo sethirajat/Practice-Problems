@@ -26,12 +26,14 @@ def root_to_leaf(root,sum):
         if root.right is not None:
             root_to_leaf(root.right, sum - root.val)
 
+'''
 def root_to_leaf_dp(root,sum,curr_sum):
     global sum_count
     global global_dict
     if root == None:
         return
-    if root.left in global_dict
+    if root.left in global_dict:
+        if
 
     if root.left == None and root.right == None:
         if root.val == sum:
@@ -43,6 +45,7 @@ def root_to_leaf_dp(root,sum,curr_sum):
         if root.right is not None:
             root_to_leaf(root.right, sum - root.val)
 
+'''
 
 call_count = 0
 node1 = Node(1)
